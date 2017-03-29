@@ -4,17 +4,25 @@ title: MacOS system variables
 date: 2017-03-29
 ---
 
-Variable Location
-OSX The default location for custom environmental variables in OSX the .bash_profile file.
+# MacOS System Variables Setup #
 
-~/.bash_profile
-To list all the variables that are being used by your system use the printenv command.
+## Variable Location ##
+OSX The default location for custom environmental variables in OSX the *.bash_profile* file.
 
-➜ ~ printenv
+``~/.bash_profile``
 
-Setting a variable: To set the variable use the command line.
+To list all the variables that are being used by your system use the `printenv` command.
 
-export NODE_ENV=development
-Reading a variable: To read the variable using the command line.
+``printenv``
 
-echo NODE_ENV
+## Setting a variable ##
+
+To set the variable use the command line.
+
+``export NODE_ENV=development``
+
+## Reading a variable ##
+
+To read the variable using the command line.
+
+``echo NODE_ENV``
