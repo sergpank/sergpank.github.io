@@ -7,11 +7,11 @@ date: 2017-03-29
 # MacOS System Variables Setup #
 
 ## Variable Location ##
-OSX The default location for custom environmental variables in OSX the *.bash_profile* file.
+OSX The default location for custom environmental variables in OSX the **.bash_profile** file.
 
 ``~/.bash_profile``
 
-To list all the variables that are being used by your system use the `printenv` command.
+To list all the variables that are being used by your system use the **printenv** command.
 
 ``printenv``
 
