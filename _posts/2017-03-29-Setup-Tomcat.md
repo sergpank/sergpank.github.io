@@ -27,4 +27,4 @@ Rest of actions is optional.
 
 If scripts do not start add permission for execute: `chmod +x <filename>`
 
-After startup, you can access rinning web app at `http://localhost:8080/`
+After startup, you can access running web app at `http://localhost:8080/`
