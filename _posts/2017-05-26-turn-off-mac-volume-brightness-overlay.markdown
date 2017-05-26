@@ -10,7 +10,7 @@ Some people find it annoying, especially if they’re watching a movie because i
 
 Here’s how to turn it off.
 
-##Turning off temporarily##
+## Turning off temporarily ##
 
 To turn off the on-screen volume and brightness displays, open a Terminal window (you’ll find it in the Utilites folder of the Applications list) and paste in the following, which should be copied and pasted as a single line:
 
@@ -18,7 +18,7 @@ To turn off the on-screen volume and brightness displays, open a Terminal window
 
 Restoring the overlay/HUD is easy: you’ll just need to log out and back in again, or simply restart your Mac.
 
-##Turning off permanently##
+## Turning off permanently ##
 
 To turn off the on-screen volume and brightness displays permanently, again open a Terminal window (as described above) and paste-in the following, which again should be copied and pasted as a single line:
 
