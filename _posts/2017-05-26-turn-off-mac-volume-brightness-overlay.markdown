@@ -18,6 +18,12 @@ To turn off the on-screen volume and brightness displays, open a Terminal window
 
 Restoring the overlay/HUD is easy: you’ll just need to log out and back in again, or simply restart your Mac.
 
+**For macOS 10.12 Sierra:** [Disable System Integrity protection](https://developer.apple.com/library/content/documentation/Security/Conceptual/System_Integrity_Protection_Guide/ConfiguringSystemIntegrityProtection/ConfiguringSystemIntegrityProtection.html), then:
+
+``launchctl unload -F /System/Library/LaunchAgents/com.apple.OSDUIHelper.plist``
+
+Don't forget to enable System Integrity protection when you're done.
+
 ## Turning off permanently ##
 
 To turn off the on-screen volume and brightness displays permanently, again open a Terminal window (as described above) and paste-in the following, which again should be copied and pasted as a single line:
@@ -28,6 +34,16 @@ To turn them back on again, open the Terminal window and paste-in the following,
 
 ``launchctl load -wF /System/Library/LaunchAgents/com.apple.BezelUI.plist``
 
+**For macOS 10.12 Sierra:** [Disable System Integrity protection](https://developer.apple.com/library/content/documentation/Security/Conceptual/System_Integrity_Protection_Guide/ConfiguringSystemIntegrityProtection/ConfiguringSystemIntegrityProtection.html), then:
+
+``launchctl unload -wF /System/Library/LaunchAgents/com.apple.OSDUIHelper.plist``
+
+You can now enable System Integrity protection again -- your settings will persist.
+
 * * *
 
-Source: [http://www.mackungfu.org/](http://www.mackungfu.org/get-rid-of-the-volume-brightness-screen-overlays-mac "Turn off the Mac's volume/brightness screen overlays/HUDs")
+Source: 
+
+[http://www.mackungfu.org/](http://www.mackungfu.org/get-rid-of-the-volume-brightness-screen-overlays-mac "Turn off the Mac's volume/brightness screen overlays/HUDs")
+
+[https://www.stackexchange.com](https://apple.stackexchange.com/questions/16849/how-do-i-disable-the-volume-control-overlay "How do I disable the volume control overlay?")
