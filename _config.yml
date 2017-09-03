@@ -16,7 +16,11 @@
 title: Yet another dull blog
 email: sergpank@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+<<<<<<< HEAD
   This is a place where I keep stuff.
+=======
+  This is the place where I keep stuff.
+>>>>>>> 02e95ee177171c3e159175488590a48d64eb326e
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sergpank
