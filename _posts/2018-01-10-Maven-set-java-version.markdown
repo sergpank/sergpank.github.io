@@ -4,7 +4,7 @@ title: Maven use Java 8 (or any other specific version) for project compilation 
 date: 2018-01-10
 ---
 
-## There are 2 ways for setting compiler source and targe java versions:
+## There are 2 ways for setting compiler `source` and `target` java versions:
 
 ### 1. Configuring corresponding project properties:
 
