@@ -42,7 +42,7 @@ find the following archetype ---> maven-archetype-webapp
 </project>
 ```
 
-### 2. Теперь обновим версию библиотеки JUnit настроим проект на Java 8
+### 2. Теперь обновим версию библиотеки JUnit,  настроим проект на Java 8
 
 ```
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
