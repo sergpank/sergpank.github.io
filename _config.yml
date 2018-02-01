@@ -29,3 +29,9 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# My custom collections
+collections:
+  maven:
+    permalink: "/:collection/:title"
+    output: true

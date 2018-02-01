@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Maven Quickstart
+description: Translation and adaption of the official guide
 date: 2018-01-06
+category: maven
+collection: maven
 ---
 
 ### 1. Чтобы создать maven проект введите следующую команду и следуйте инструкциям:

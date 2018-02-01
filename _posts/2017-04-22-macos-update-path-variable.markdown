@@ -2,6 +2,7 @@
 layout: post
 title: MacOS - update PATH variable
 date: 2017-04-22
+categories: mac howto
 ---
 
 ## Update $PATH for single user ##

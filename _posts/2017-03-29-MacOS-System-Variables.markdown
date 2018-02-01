@@ -2,6 +2,7 @@
 layout: post
 title: MacOS system variables
 date: 2017-03-29
+category: mac
 ---
 
 ## Variable Location ##
