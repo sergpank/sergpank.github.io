@@ -35,3 +35,6 @@ collections:
   maven:
     permalink: "/:collection/:title"
     output: true
+  concurrency:
+    permalink: "/:collection/:title"
+    output: true
