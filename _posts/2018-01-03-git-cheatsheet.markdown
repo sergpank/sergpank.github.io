@@ -8,22 +8,22 @@ date: 2018-01-03
 
 | Command | Description |
 |---------|-------------|
-| git clone <link-to-repository> | Clone specific git repository to your machine |
-| git init                       | Initialize a new repository in the current directory |
-| git remote add origin  <link-to-repository> | Connect local repository to remote repository |
+| `git clone <link-to-repository>` | Clone specific git repository to your machine |
+| `git init`                       | Initialize a new repository in the current directory |
+| `git remote add origin  <link-to-repository>` | Connect local repository to remote repository |
 | | |
-| git status                     | Check the status of your repository |
-| git add <path-to-file>         | Add specific file to local GIT repository |
-| git checkout -- <file>         | Discard changes in specific file (works for file that is not added to GIT) |
-| git commit -m "commit-message" | Commit changes into local GIT repository |
-| git reset HEAD <path-to-file>  | Unstage added file from local GIT repository |
-| git push                       | Push changes to remote repository |
-| git pull                       | Pull changes from remote repository |
+| `git status`                     | Check the status of your repository |
+| `git add <path-to-file>`         | Add specific file to local GIT repository |
+| `git checkout -- <file>`         | Discard changes in specific file (works for file that is not added to GIT) |
+| `git commit -m "commit-message"` | Commit changes into local GIT repository |
+| `git reset HEAD <path-to-file>`  | Unstage added file from local GIT repository |
+| `git push`                       | Push changes to remote repository |
+| `git pull`                       | Pull changes from remote repository |
 | | |
-| git log since..until           | Show unpushed commits. Ex: git log origin/master..master |
+| `git log since..until`           | Show unpushed commits. Ex: git log origin/master..master |
 | | |
-| git config --global user.email "you@example.com" | Set your git account |
-| git config --global user.name "Your Name"        | Set your git username |
+| `git config --global user.email "you@example.com"` | Set your git account |
+| `git config --global user.name "Your Name"`        | Set your git username |
 
 ## Here is a list of git commands I use the most
 
