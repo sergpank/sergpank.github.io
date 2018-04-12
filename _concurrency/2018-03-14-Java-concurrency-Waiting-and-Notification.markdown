@@ -23,7 +23,7 @@ while(condition)
 }
 ```
 
-### Wait-Notify API:
+## Wait-Notify API:
 + `wait(), wait(millis), wait(millis, nanos)` - поток уходит в режим ожидания пока не будет разбужен вызовом **notify** или **notifyAll**, или не истечет время ожидания.
 + `notify()` - разбудить один из поток, монитор которого держит данный поток.
 + `notifyAll()` - разбудить все потоки, мониторы которых держит данный поток.
@@ -184,13 +184,16 @@ Sample output:
 */
 ```
 
-Сначала нужно нанести на мащину воск, потом можно произвести полировку, и так пока не надоест.
+Сначала нужно нанести на машину воск, потом можно произвести полировку, и так пока не надоест.
 
 Поток **WaxOn** отвечает за нанесение воска и ожидание полировки.
 
 Поток **WaxOff** отвечает за полировку и ожидание нанесения следующего слоя воска.
 
-Давайте рассмотрим такой пример:
+## И для закрепления, давайте рассмотрим такой пример:
+
+Вася и Петя хотят хорошо позавтракать. Но завтрак нужно сначала приготовить. А для этого ребятам придется подождать.
+
 1. Приготовить завтрак 
   * Поставить кипятиться чайник -> makeTea() = () -> {slep(3 seconds); notify()}
   * Поставить жариться яичницу  -> makeOmlet() ...
@@ -200,10 +203,124 @@ Sample output:
 Действия из пункта 1 будут выполняться параллено, а пункт 2 может начать выполнения только после завершения всех подпроцессов из п1.
 
 ```java
-// Тут должен быть исходный код примера и комментарии к нему
-// Получается что у нас есть один блокируемый объект доступ к которому будет ждать поток из пункта 2
-// Пусть этим объектом будет человек, нет, это должен быть завтрак или кухня
-// или все таки человек и его статус будет isCooking() {teaReady && omletReady && toastReady}
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
-// Таким образом while(isCooking()) {wait()}
+public class Notification {
+    boolean teaReady;
+    boolean omletReady;
+    boolean toastReady;
+
+    enum Dish {
+        TEA,
+        OMLET,
+        TOAST
+    }
+
+    public static void main(String[] args) {
+        Notification n = new Notification();
+        Runnable teaCooker = n.makeCooker(Dish.TEA, 5);
+        Runnable omletCooker = n.makeCooker(Dish.OMLET, 7);
+        Runnable toastCooker = n.makeCooker(Dish.TOAST, 3);
+        Runnable vasya = n.makeEater("Вася");
+        Runnable petya = n.makeEater("Петя");
+
+        ExecutorService pool = Executors.newCachedThreadPool();
+
+        pool.execute(vasya);
+        pool.execute(petya);
+        pool.execute(teaCooker);
+        pool.execute(omletCooker);
+        pool.execute(toastCooker);
+
+        pool.shutdown();
+    }
+
+    Runnable makeCooker(Dish dish, long delay) {
+        return () -> {
+            System.out.printf("Start cooking [%s] ...\n", dish.name());
+
+            try {
+                TimeUnit.SECONDS.sleep(delay);
+            } catch (Throwable t) {
+                // NOTHING TO DO HERE
+            }
+
+            System.out.printf("[%s] is ready!\n", dish.name());
+
+            switch (dish) {
+                case TEA  : teaReady   = true; break;
+                case OMLET: omletReady = true; break;
+                case TOAST: toastReady = true; break;
+            }
+            synchronized (this) {
+                notifyAll();
+            }
+        };
+    }
+
+    Runnable makeEater(String name) {
+        return () -> {
+            while (!catTakeBreakfast()) {
+                System.out.printf("%s : Waiting for my breakfast ...\n", name);
+                synchronized (this) {
+                    try {
+                        wait();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+            System.out.printf("%s : FINALLY! num - num - num !\n", name);
+        };
+    }
+
+    boolean catTakeBreakfast() {
+        return teaReady && omletReady && toastReady;
+    }
+}
+
+
+/* Execution result:
+
+Вася : Waiting for my breakfast ...
+Start cooking [TOAST] ...
+Start cooking [OMLET] ...
+Start cooking [TEA] ...
+Петя : Waiting for my breakfast ...
+[TOAST] is ready!
+Петя : Waiting for my breakfast ...
+Вася : Waiting for my breakfast ...
+[TEA] is ready!
+Вася : Waiting for my breakfast ...
+Петя : Waiting for my breakfast ...
+[OMLET] is ready!
+Петя : FINALLY! num - num - num !
+Вася : FINALLY! num - num - num !
+
+*/
 ```
+
+Если вам интересно что будет если в методе `makeCooker()` заменить `notifyAll()` на `notify()` - дерзайте! 
+И вина за то что один из друзей навсегда останется голоднным всецело лежит на вас:
+
+```java
+/*
+
+Вася : Waiting for my breakfast ...
+Start cooking [TOAST] ...
+Start cooking [OMLET] ...
+Start cooking [TEA] ...
+Петя : Waiting for my breakfast ...
+[TOAST] is ready!
+Вася : Waiting for my breakfast ...
+[TEA] is ready!
+Петя : Waiting for my breakfast ...
+[OMLET] is ready!
+Вася : FINALLY! num - num - num !
+
+*/
+```
+
+Потому что `notify()` выводит из спячки только один поток, наблюдающий за данной блокировкой.
