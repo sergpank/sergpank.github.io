@@ -6,4 +6,4 @@ date: 2018-05-15
 
 | Command | Description |
 |---------|-------------|
-| `find / -name pg_hba.conf` | find file 'ph_hba.conf' starting from the **root** |
+| `find / -name pg_hba.conf` | find file 'ph_hba.conf' file starting from the **root** |
