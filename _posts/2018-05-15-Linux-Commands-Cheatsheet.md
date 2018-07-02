@@ -12,3 +12,13 @@ date: 2018-05-15
 | `service --status-al`               | List running service |
 | `service postgresql96 status`       | Check status of *postgresql96* service |
 | `sudo service postgresql96 restart` | Restart *postgresql96* service |
+| | |
+| `du -hs *`                          | display summarized sized for each file and folder in current directory ("h" - human readable; "s" - summarized |
+| | |
+| `yum list ` | show all available packages |
+| `yum list installed` | show all installed packages |
+| `yum remove <package>` | remove selected package |
+| `rpm -qa` | list intalled packages |
+| `rpm -ivh <package>` | install selected package |
+| `rpm -e <package>` | remove selected package |
+| `apt list --installed` | list installed packages |
