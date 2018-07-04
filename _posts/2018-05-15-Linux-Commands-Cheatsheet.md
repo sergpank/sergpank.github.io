@@ -22,3 +22,5 @@ date: 2018-05-15
 | `rpm -ivh <package>` | install selected package |
 | `rpm -e <package>` | remove selected package |
 | `apt list --installed` | list installed packages |
+| | |
+| `ln -sfn <full-path> <link-name>` | create or update symbolic link |
