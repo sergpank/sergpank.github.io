@@ -24,3 +24,7 @@ date: 2018-05-15
 | `apt list --installed` | list installed packages |
 | | |
 | `ln -sfn <full-path> <link-name>` | create or update symbolic link |
+| | |
+| `gunzip <file.gzip>` | extract **.gzip** or **.gz** archive |
+| `tar xvfz <file.tar.gz>` | extract **.tar.gz** archive |
+| `tar xvf <file.tar>` | extract **.tar** archive
