@@ -28,5 +28,6 @@ date: 2018-05-15
 | `ln -sfn <full-path> <link-name>` | create or update symbolic link |
 | | |
 | `gunzip <file.gzip>` | extract **.gzip** or **.gz** archive |
+| `zcat x.txt.gz >x.txt` OR `gzcat x.txt.gz > x.txt` OR `gunzip -c x.txt.gz > x.txt` | extract **gzip** without deleting archive|
 | `tar xvfz <file.tar.gz>` | extract **.tar.gz** archive |
 | `tar xvf <file.tar>` | extract **.tar** archive
