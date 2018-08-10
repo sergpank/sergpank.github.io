@@ -29,3 +29,7 @@ date: 2018-07-02
 | dd | cut line |
 | p | insert after current line |
 | P | insert before current line |
+| | |
+| u | undo last action |
+| ctrl + r | redo last action |
+| U | revert last line to original state |
