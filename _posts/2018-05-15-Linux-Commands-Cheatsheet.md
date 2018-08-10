@@ -31,3 +31,6 @@ date: 2018-05-15
 | `zcat x.txt.gz >x.txt` OR `gzcat x.txt.gz > x.txt` OR `gunzip -c x.txt.gz > x.txt` | extract **gzip** without deleting archive|
 | `tar xvfz <file.tar.gz>` | extract **.tar.gz** archive |
 | `tar xvf <file.tar>` | extract **.tar** archive
+| `zip -r <zip-name.zip> <directory-to-zip>` | zip a directory |
+| `zip <zip-name.zip> <file1> <file2> ...` | zip multiple files into archive |
+| `unzip <zip-name.zip>` | unzip a **.zip** archive |
