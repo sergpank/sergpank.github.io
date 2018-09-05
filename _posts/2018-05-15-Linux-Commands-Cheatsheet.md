@@ -34,3 +34,6 @@ date: 2018-05-15
 | `zip -r <zip-name.zip> <directory-to-zip>` | zip a directory |
 | `zip <zip-name.zip> <file1> <file2> ...` | zip multiple files into archive |
 | `unzip <zip-name.zip>` | unzip a **.zip** archive |
+| | |
+| `/usr/local/sbin/haproxy -c -V -f /etc/haproxy/haproxy.cfg` | validate HAProxy configuration |
+| `service haproxy reload` | update HAProxy configuration |
