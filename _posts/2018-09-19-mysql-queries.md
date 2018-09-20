@@ -5,7 +5,7 @@ date: 2018-09-19
 ---  
 
 ## Show size for all DB tables:
-```
+```sql
 SELECT 
      table_schema as `Database`, 
      table_name AS `Table`, 
