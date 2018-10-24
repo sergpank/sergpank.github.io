@@ -38,6 +38,9 @@ collections:
   concurrency:
     permalink: "/:collection/:title"
     output: true
+  spring:
+    permalink: "/:collection/:title"
+    output: true
   hibernate:
     permalink: "/:collection/:title"
     output: true
