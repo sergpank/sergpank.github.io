@@ -48,7 +48,7 @@ E.g. to start version 9.6:
 2. `psql help`   - check that **psql** command works fine and PostgreSQL is really running.
 
 `CREATE SCHEMA test;`
-`CREATE USER ec2 PASSWORD 'jkl123';`
+`CREATE USER ec2 PASSWORD '123456';`
 `GRANT ALL ON SCHEMA test TO ec2;`
 `GRANT ALL ON ALL TABLES IN SCHEMA test TO ec2;`
 `CREATE DATABASE kishinev OWNER postgres`
@@ -76,7 +76,7 @@ E.g. to start version 9.6:
 4. \dt                        ---> list all tables
 
 # Dump Database:
-`pg_dump -U postgres kishinev > kishinev.sql`
+`pg_dump -U postgres test > test.sql`
 will create a SQL sump of database **kishinev** using user **postgres**
 
 # Restore Database Dump:
