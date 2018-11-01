@@ -47,11 +47,13 @@ E.g. to start version 9.6:
 1. `su postgres` - switch to **postgres** user for manipulations with DB.
 2. `psql help`   - check that **psql** command works fine and PostgreSQL is really running.
 
-`CREATE SCHEMA test;`
-`CREATE USER ec2 PASSWORD '123456';`
-`GRANT ALL ON SCHEMA test TO ec2;`
-`GRANT ALL ON ALL TABLES IN SCHEMA test TO ec2;`
-`CREATE DATABASE kishinev OWNER postgres`
+```
+CREATE SCHEMA test;
+CREATE USER ec2 PASSWORD '123456';
+GRANT ALL ON SCHEMA test TO ec2;
+GRANT ALL ON ALL TABLES IN SCHEMA test TO ec2;
+CREATE DATABASE kishinev OWNER postgres
+```
 
 1. \du                       ---> List all users
 2. drop user --echo ec2      ---> drop user `ec2`
@@ -80,7 +82,9 @@ E.g. to start version 9.6:
 will create a SQL sump of database **kishinev** using user **postgres**
 
 # Restore Database Dump:
-`psql -U postgres`
-`CREATE DATABASE kishinev OWNER postgres;`
+```
+psql -U postgres
+CREATE DATABASE kishinev OWNER postgres;
 
-`psql -U postgres kishinev < kishinev.sql`
+psql -U postgres kishinev < kishinev.sql
+```
