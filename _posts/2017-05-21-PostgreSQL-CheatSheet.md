@@ -79,12 +79,30 @@ CREATE DATABASE kishinev OWNER postgres
 
 # Dump Database:
 `pg_dump -U postgres test > test.sql`
-will create a SQL sump of database **kishinev** using user **postgres**
+will create a SQL sump of database **test** using user **postgres**
 
 # Restore Database Dump:
 ```
 psql -U postgres
-CREATE DATABASE kishinev OWNER postgres;
+CREATE DATABASE test OWNER postgres;
 
-psql -U postgres kishinev < kishinev.sql
+psql -U postgres test < test.sql
+```
+
+# Enable remote access to PostgreSQL server:
+1. Connect to the PostgreSQL server via SSH .
+2. Add the following line in the end of /var/lib/pgsql/data/postgresql.conf file:
+```
+listen_addresses = '*'
+```
+3. Add the following line in the end of /var/lib/pgsql/data/pg_hba.conf file:
+```
+host all all 111.222.333.4444 trust
+```
+- 111.222.333.444 is the remote IP from which connection is allowed. If you want to allow connection from any IP specify 0.0.0.0/0 . 
+- `trust` is the authentication method, which allows the connection unconditionally.
+As for other authentication methods refer to PostgreSQL documentation - https://www.postgresql.org/docs/9.6/auth-pg-hba-conf.html.
+4. Restart PostgreSQL server to apply the changes:
+```
+systemctl restart postgresql.service
 ```
