@@ -72,10 +72,17 @@ CREATE DATABASE kishinev OWNER postgres
 6. Source ---> https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
 
 # PSQL commands:
+```
 1. `psql -U postgres -d test` ---> Connect as user **postgres** to database **test**
 2. \du                        ---> list all users
 3. \l OR \list                ---> list all databases
 4. \dt                        ---> list all tables
+5. \dt+                       ---> list extended info for all tables
+6. \dt *.*                    ---> list all tables for all schemas
+7. \dt gis.*                  ---> list all tables for schema 'gis'
+8. \dn                        ---> list all schemas
+9. \dn+                       ---> list extended info for schemas
+```
 
 # Dump Database:
 `pg_dump -U postgres test > test.sql`
