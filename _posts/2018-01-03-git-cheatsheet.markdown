@@ -43,6 +43,7 @@ date: 2018-01-03
 | `git branch -d <branch_name>`                      | Delete branch
 | `git branch -D <branch_name>`                      | Force delete branch (even if it has unmerged changes)
 | `git push origin --delete <branch_name>`           | Delete branch in repository
+| `git fetch --prune origin`                         | Prune (remove) all unreacheable object from DB (in case if branch is removed on remote origin by somebody else)
 | |
 | `git merge <branch_name>`                          | Merge <branch_name> into current branch
 | |
