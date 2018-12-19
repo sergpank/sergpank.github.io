@@ -52,3 +52,13 @@ date: 2018-01-03
 | |
 | `git cherry-pick <commit-hash>`                    | Merge specific commit into current branch
 | `git cherry-pick -m 1 <commit-hash>`               | Merge specific merge-commit into current branch
+| |
+| `git tag`                                          | List all tags
+| `git tag --list release_1.*`                       | List tags that match pattern
+| `git tag -a <tag_name> -m <tag_description>`       | Create tag
+| `git tag -a <tag_name> <commit_hash>`              | Create tag for an old commit
+| `git push origin <tag_name>`                       | Push tag to repo
+| `git push origin --tags`                           | Push all tag to repo
+| `git checkout tags/<tag_name>`                     | Checkout specific tag
+| `git tag -d <tag_name>`                            | Remove tag localy ...
+| `git push origin :refs/tags/<tag_name>`            | ... and push the removal to repo
