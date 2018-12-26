@@ -16,6 +16,10 @@ This is extremely easy:
 5. Set `JAVA_HOME` variable:
 
 	Add to **~/.bash_profile** `export JAVA_HOME=$(/usr/libexec/java_home)`
+	
+6. Reload current shell (or create new shell session):
+
+	`source ~/.bash_profile`
 
 Rest of actions is optional.
 
