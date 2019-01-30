@@ -49,6 +49,8 @@ date: 2018-01-03
 | |
 | `git branch -m new_name`                           | Rename current brach
 | `git branch -m old_name new_name`                  | Rename a different branch
+| `git push origin :old_name new_name`               | Rename branch in repository
+| `git push origin -u origin/new_name`               | Update upstream for renamed local branch
 | |
 | `git cherry-pick <commit-hash>`                    | Merge specific commit into current branch
 | `git cherry-pick -m 1 <commit-hash>`               | Merge specific merge-commit into current branch
