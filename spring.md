@@ -14,8 +14,4 @@ permalink: /spring/
       </h2>
     </li>
   {% endfor %}
-<<<<<<< HEAD
 </ul>
-=======
-</ul>
->>>>>>> 7ebe9cb7649432b87fbee59e6f2445c8ced8ef48
