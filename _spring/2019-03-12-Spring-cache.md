@@ -341,7 +341,7 @@ stats cachedump <slab_id> <limit> -> show <limit> items from <slab_id>
 quit                              -> disconnect from memcached cli
 
 stats items
-STAT items:1:number 11            // the first number after "tems:" is slab_id
+STAT items:1:number 11            // the first number after "items:" is slab_id
 STAT items:1:number_hot 0
 STAT items:1:number_warm 0
 STAT items:1:number_cold 11
