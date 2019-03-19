@@ -134,4 +134,8 @@ INFO: Loading XML bean definitions from class path resource [app-context.xml]
 Hello Spring ! ! !
 
 Process finished with exit code 0
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 7ebe9cb7649432b87fbee59e6f2445c8ced8ef48

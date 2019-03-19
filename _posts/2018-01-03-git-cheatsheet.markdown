@@ -43,11 +43,24 @@ date: 2018-01-03
 | `git branch -d <branch_name>`                      | Delete branch
 | `git branch -D <branch_name>`                      | Force delete branch (even if it has unmerged changes)
 | `git push origin --delete <branch_name>`           | Delete branch in repository
+| `git fetch --prune origin`                         | Prune (remove) all unreacheable object from DB (in case if branch is removed on remote origin by somebody else)
 | |
 | `git merge <branch_name>`                          | Merge <branch_name> into current branch
 | |
 | `git branch -m new_name`                           | Rename current brach
 | `git branch -m old_name new_name`                  | Rename a different branch
+| `git push origin :old_name new_name`               | Rename branch in repository
+| `git push origin -u origin/new_name`               | Update upstream for renamed local branch
 | |
 | `git cherry-pick <commit-hash>`                    | Merge specific commit into current branch
 | `git cherry-pick -m 1 <commit-hash>`               | Merge specific merge-commit into current branch
+| |
+| `git tag`                                          | List all tags
+| `git tag --list release_1.*`                       | List tags that match pattern
+| `git tag -a <tag_name> -m <tag_description>`       | Create tag
+| `git tag -a <tag_name> <commit_hash>`              | Create tag for an old commit
+| `git push origin <tag_name>`                       | Push tag to repo
+| `git push origin --tags`                           | Push all tag to repo
+| `git checkout tags/<tag_name>`                     | Checkout specific tag
+| `git tag -d <tag_name>`                            | Remove tag localy ...
+| `git push origin :refs/tags/<tag_name>`            | ... and push the removal to repo
