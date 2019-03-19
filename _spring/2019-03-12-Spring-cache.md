@@ -328,13 +328,29 @@ Redis hints:
 redis-server & -> start redis
 redis-cli      -> redis commmand-line-interface
 keys *         -> show all keys
+get <key_name> -> get value of some key
 flushall       -> clear redis cache
 ```
 
 Memcached hints:
 ```
-memcached &            -> start memecached
-telnet 127.0.0.1 11211 -> connect to local memcached instance
-stats items            -> show brief memecached stats
-quit                   -> disconnect from memcached cli
+memcached &                       -> start memecached
+telnet 127.0.0.1 11211            -> connect to local memcached instance
+stats items                       -> show brief memecached stats
+stats cachedump <slab_id> <limit> -> show <limit> items from <slab_id>
+quit                              -> disconnect from memcached cli
+
+stats items
+STAT items:1:number 11            // the first number after "tems:" is slab_id
+STAT items:1:number_hot 0
+STAT items:1:number_warm 0
+STAT items:1:number_cold 11
+...
+END
+
+stats cachedump 1 3
+ITEM testCache-10 [2 b; 1553005477 s]
+ITEM testCache-9 [1 b; 1553005477 s]
+ITEM testCache-8 [1 b; 1553005477 s]
+END
 ```
