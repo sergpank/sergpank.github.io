@@ -38,4 +38,4 @@ date: 2018-05-15
 | `/usr/local/sbin/haproxy -c -V -f /etc/haproxy/haproxy.cfg` | validate HAProxy configuration |
 | `service haproxy reload` | update HAProxy configuration |
 | | |
-| `scp <file_name> <host>:/<path_on_host> | copy file to remote host |
+| `scp <file_name> <host>:/<path_on_host>` | copy file to remote host |
