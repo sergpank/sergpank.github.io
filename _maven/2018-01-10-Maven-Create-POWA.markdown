@@ -10,7 +10,7 @@ date: 2018-01-10
 
 ### 1. Для начала, сгенерируем костяк проекта:
 
-```
+```bash
 mvn archetype:generate
 
 find the following archetype ---> maven-archetype-webapp
@@ -18,7 +18,7 @@ find the following archetype ---> maven-archetype-webapp
 
 Мы получим пустой проект со следуюцим POM файлом:
 
-```
+```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -44,7 +44,7 @@ find the following archetype ---> maven-archetype-webapp
 
 ### 2. Теперь обновим версию библиотеки JUnit,  настроим проект на Java 8
 
-```
+```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -80,7 +80,7 @@ find the following archetype ---> maven-archetype-webapp
 
 ### 3. Настроим Jetty plugin
 
-```
+```xml
 <project>
   [...]
   <build>
@@ -102,7 +102,7 @@ find the following archetype ---> maven-archetype-webapp
 
 Следует учесть что maven ожидает найти корень веб-приложения в `src/main/webapp`, где сейчас находится только `index.jsp`:
 
-```
+```xml
 <html>
 <body>
 <h2>Hello World!</h2>
@@ -112,7 +112,7 @@ find the following archetype ---> maven-archetype-webapp
 
 А в `src/main/webapp/WEB-INF` находится минимально возможный `web.xml`:
 
-```
+```xml
 <!DOCTYPE web-app PUBLIC
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
@@ -126,7 +126,7 @@ find the following archetype ---> maven-archetype-webapp
 
   - Для начала добавим новую зависимость:
 
-```
+```xml
 <dependency>
   <groupId>javax.servlet</groupId>
   <artifactId>servlet-api</artifactId>
@@ -136,7 +136,7 @@ find the following archetype ---> maven-archetype-webapp
 
   - Далее создадим папку `src/main/java` и поместим в нее `SimpleServlet`:
 
-```
+```java
 package com.sergpank.web;
 
 import javax.servlet.http.HttpServlet;
@@ -160,7 +160,7 @@ public class SimpleServlet extends HttpServlet
 
   - После чего зарегистрирует сервлет в `web.xml`:
 
-```
+```xml
 <!DOCTYPE web-app PUBLIC
     "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
     "http://java.sun.com/dtd/web-app_2_3.dtd" >
@@ -184,7 +184,7 @@ public class SimpleServlet extends HttpServlet
 
   - Теперь нужно пересобрать проект, и перезапустить Jetty:
 
-```
+```bash
 mvn clean install
 mvn jetty:run
 

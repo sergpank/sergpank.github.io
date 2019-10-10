@@ -8,7 +8,7 @@ category: mac
 Let's assume that you have the installed java7 and java8 on your mac.
 
 Now you need to setup the following aliases (in `~/.bash_profile`):
-```
+```bash
 alias j7='export JAVA_HOME=`/usr/libexec/java_home -v 1.7`'
 alias j8='export JAVA_HOME=`/usr/libexec/java_home -v 1.8`'
 ```
