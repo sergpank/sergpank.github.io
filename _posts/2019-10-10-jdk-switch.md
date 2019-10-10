@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Switch java versions in command line on-the-fly
+title: Switch java versions in command line
 date: 2019-10-10
+category: mac
 ---  
 
 Let's assume that you have the installed java7 and java8 on your mac.
