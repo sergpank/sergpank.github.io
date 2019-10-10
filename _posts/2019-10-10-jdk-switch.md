@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switch java versions in command line
+title: Switch java versions in command line using [java_home]
 date: 2019-10-10
 category: mac
 ---  
