@@ -113,3 +113,41 @@ As for other authentication methods refer to PostgreSQL documentation - https://
 ```
 systemctl restart postgresql.service
 ```
+
+`psql -U postgres kishinev < kishinev.sql`
+
+
+# How completely uninstall PostgreSQL 9.X on Mac OSX
+Source: https://gist.github.com/Atlas7/b1a40a2ffd85728b33e7
+## If installed PostgreSQL with homebrew , enter brew uninstall postgresql
+## If you used the EnterpriseDB installer , follow the following step.
+1. Run the uninstaller on terminal window
+`sudo /Library/PostgreSQL/9.X/uninstall-postgresql.app/Contents/MacOS/installbuilder.sh`
+2. If installed with Postgres Installer, do:
+2.1 open /Library/PostgreSQL/9.X/uninstall-postgresql.app
+- Remove the PostgreSQL and data folders. The Wizard will notify you that these were not removed.
+- `sudo rm -rf /Library/PostgreSQL`
+2.2 Remove the ini file:
+- `sudo rm /etc/postgres-reg.ini`
+2.3 Remove the PostgreSQL user using System Preferences -> Users & Groups.
+- Unlock the settings panel by clicking on the padlock and entering your password.
+- Select the PostgreSQL user and click on the minus button.
+- Restore your shared memory settings: sudo rm /etc/sysctl.conf
+
+# How can I tell what port my postgreSQL server is running on?
+- check your postgresql.conf in your $PGDATA directory
+
+# Can't start postgres
+**Error:**
+```bash
+psql: could not connect to server: No such file or directory
+  Is the server running locally and accepting
+  connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+```
+
+1. Issue this command and check the server.log: `pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start`
+ - maybe the issue with permission ---> `chmod 700 /usr/local/var/postgres`
+ - maybe there is an old version of postgres --->
+   --> remove **/usr/local/var/postgres** directory
+   --> create directory again, and initializee DB: `initdb /usr/local/var/postgres/ -E utf8 --no-locale`
+   --> startpostgres: `pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start`
