@@ -64,3 +64,9 @@ date: 2018-01-03
 | `git checkout tags/<tag_name>`                     | Checkout specific tag
 | `git tag -d <tag_name>`                            | Remove tag localy ...
 | `git push origin :refs/tags/<tag_name>`            | ... and push the removal to repo
+
+## Working with remote
+
+| Command                              | Description |
+| `git remote -v`                      | List currently configured remote repositories |
+| `git remote add upstream <repo-url>` | Specify a new remote upstream repository that will be synced with the fork |
