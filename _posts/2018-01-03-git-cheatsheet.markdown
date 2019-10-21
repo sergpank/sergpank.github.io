@@ -27,8 +27,8 @@ date: 2018-01-03
 
 ## Here is a list of git commands I use the most
 
-| Command                                            | Description                                                                            
-|----------------------------------------------------|---------------------------------------------------------------------------------------
+| Command                                            | Description
+|----------------------------------------------------|------------
 | `git branch`                                       | List all local branches
 | `git branch --all`                                 | List all local and remote branches
 | |
@@ -65,8 +65,10 @@ date: 2018-01-03
 | `git tag -d <tag_name>`                            | Remove tag localy ...
 | `git push origin :refs/tags/<tag_name>`            | ... and push the removal to repo
 
-## Working with remote
+## Working with remote (when you have a damn fork)
 
-| Command                              | Description |
-| `git remote -v`                      | List currently configured remote repositories |
-| `git remote add upstream <repo-url>` | Specify a new remote upstream repository that will be synced with the fork |
+| Command                              | Description 
+|--------------------------------------|------------
+| `git remote -v`                      | List currently configured remote repositories 
+| `git remote add upstream <repo-url>` | Specify a new remote upstream repository that will be synced with the fork
+| `git pull upstream <branch>`         | Pull latest code from `upstream` branch |
