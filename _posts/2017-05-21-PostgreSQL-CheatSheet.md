@@ -4,6 +4,45 @@ title: PostgreSQL CheatSheet
 date: 2018-05-21
 ---  
 
+# Install postgress 11 for ubuntu
+
+0. Source : https://www.postgresql.org/download/linux/ubuntu/
+1. Run the following commands :
+```bash
+# create file /etc/apt/sources.list.d/pgdg.list and add the following line
+deb http://apt.postgresql.org/pub/repos/apt/ bionic-pgdg main
+
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+sudo apt-get update
+apt-get install postgresql-11
+```
+
+# Istall PostGIS for postgres 11 :
+0. Source : http://postgis.net/install/
+1. Run the following commands : 
+```bash
+vi /etc/apt/sources.list
+
+# add the following lite at the end of the file :
+deb http://apt.postgresql.org/pub/repos/apt bionic-pgdg main
+
+wget --quiet -O - http://apt.postgresql.org/pub/repos/apt/ACCC4CF8.asc | sudo apt-key add -
+sudo apt-cache policy postgis #gives list of version
+sudo apt install postgis #install default version
+
+# create a DB with postgis support
+sudo -u postgres psql
+CREATE DATABASE gisdb;
+\connect gisdb;
+
+CREATE SCHEMA postgis;
+ALTER DATABASE gisdb SET search_path=public, postgis, contrib;
+connect gisdb;  -- this is to force new search path to take effect
+CREATE EXTENSION postgis SCHEMA postgis;
+SELECT postgis_full_version();
+
+```
+
 # Install and use Postgresql9.6 from console
 
 0. Links:
