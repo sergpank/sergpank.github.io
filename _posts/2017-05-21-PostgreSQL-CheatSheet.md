@@ -7,7 +7,8 @@ date: 2018-05-21
 # Install postgress 11 for ubuntu
 
 0. Source : https://www.postgresql.org/download/linux/ubuntu/
-1. Run the following commands :
+1. Run the following commands : 
+
 ```bash
 # create file /etc/apt/sources.list.d/pgdg.list and add the following line
 deb http://apt.postgresql.org/pub/repos/apt/ bionic-pgdg main
@@ -18,8 +19,10 @@ apt-get install postgresql-11
 ```
 
 # Istall PostGIS for postgres 11 :
+
 0. Source : http://postgis.net/install/
 1. Run the following commands : 
+
 ```bash
 vi /etc/apt/sources.list
 
