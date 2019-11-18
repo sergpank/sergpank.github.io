@@ -71,4 +71,5 @@ date: 2018-01-03
 |--------------------------------------|------------
 | `git remote -v`                      | List currently configured remote repositories 
 | `git remote add upstream <repo-url>` | Specify a new remote upstream repository that will be synced with the fork
-| `git pull upstream <branch>`         | Pull latest code from `upstream` branch |
+| `git pull upstream <branch>`         | Pull latest code from `upstream` branch 
+| `git checkout --track coworker/foo`  | Checkout a branch from another fork 
