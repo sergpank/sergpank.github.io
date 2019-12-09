@@ -4,6 +4,15 @@ title: Linux Commands Cheatsheet
 date: 2018-05-15
 ---  
 
+
+### Commands chaining in terminal:
+```
+A; B    # Run A and then B, regardless of success of A
+A && B  # Run B if and only if A succeeded
+A || B  # Run B if and only if A failed
+A &     # Run A in background.
+```
+
 | Command | Description |
 |---------|-------------|
 | `find / -name pg_hba.conf`          | Find file 'ph_hba.conf' file starting from the **root** |
