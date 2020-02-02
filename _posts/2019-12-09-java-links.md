@@ -5,6 +5,6 @@ date: 2019-12-09
 category: Java
 ---  
 
-Here I keep links to supercool articles related to beutiful Java.
+Here I keep links to supercool articles related to beuatiful Java.
 
 [A Guide to java versions and features](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
