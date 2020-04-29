@@ -64,6 +64,8 @@ date: 2018-01-03
 | `git checkout tags/<tag_name>`                     | Checkout specific tag
 | `git tag -d <tag_name>`                            | Remove tag localy ...
 | `git push origin :refs/tags/<tag_name>`            | ... and push the removal to repo
+| |
+| `git rm --cached <file_name>`                      | Stop tracking file and remove it from git index
 
 ## Working with remote (when you have a damn fork)
 
