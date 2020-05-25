@@ -9,3 +9,4 @@ category: Java
 
 1. [A Guide to java versions and features](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
 2. [New features in Java_14](https://www.techgeeknext.com/java/java14-features)
+3. [Remote debuggiing of Java app running in Docker container](https://medium.com/swlh/remote-debugging-a-java-application-running-in-docker-container-with-intellij-idea-efe54cd77f02)
