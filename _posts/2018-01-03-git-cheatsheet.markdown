@@ -31,7 +31,7 @@ date: 2018-01-03
 |----------------------------------------------------|------------
 | `git branch`                                       | List all local branches
 | `git branch --all`                                 | List all local and remote branches
-| `git branch -vv`                                   | List verbose all branches (with SHA and latest commit)
+| `git branch -v`                                   | List verbose all branches (with SHA and latest commit)
 | `git branch -vv`                                   | List verbose all branches and their upstream branch
 | |
 | `git pull --all`                                   | Pull all changes from the repository
