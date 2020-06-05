@@ -21,3 +21,10 @@ SELECT DISTINCT
 FROM INFORMATION_SCHEMA.STATISTICS
 where table_name='opx_subscriptions';
 ```
+## Show DB Timezone
+```sql
+-- choose query you like
+SELECT @@session.time_zone;
+SELECT @@system_time_zone;
+SELECT IF(@@session.time_zone = 'SYSTEM', @@system_time_zone, @@session.time_zone);
+```
