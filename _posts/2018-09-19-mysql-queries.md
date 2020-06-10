@@ -28,3 +28,10 @@ SELECT @@session.time_zone;
 SELECT @@system_time_zone;
 SELECT IF(@@session.time_zone = 'SYSTEM', @@system_time_zone, @@session.time_zone);
 ```
+# LOG all SQL queries
+```sql
+SET GLOBAL general_log = 'ON';
+SET GLOBAL log_output = 'table';
+
+select * from mysql.general_log;
+```
