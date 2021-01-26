@@ -1,8 +1,32 @@
 ---
 layout: post
-title: MySQL SQL Queries
+title: MySQL Cheatsheet (commands and queries)
 date: 2018-09-19
 ---  
+
+## Basic console commands:
+```bash
+# connect to some db:
+mysql -h hostname -u username -pPassword schemaname
+
+# create dump of the table:
+mysqldump -u username -pPassword -h hostname databasename tablename > dumpname
+
+# restore dump of the table:
+mysql -h hostname -u username -pPassword databasename < dumpname
+
+# connect to local DB as root:
+mysql -uroot
+
+# list available schemas:
+show databases;
+
+# select schema
+use schema-name;
+
+# show current schema:
+select database();
+```
 
 ## Show size for all DB tables:
 ```sql
