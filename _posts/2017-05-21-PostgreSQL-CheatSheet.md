@@ -4,6 +4,12 @@ title: PostgreSQL CheatSheet
 date: 2018-05-21
 ---  
 
+# Find config file location:
+```bash
+psql -U postgres -c 'SHOW config_file'
+# /etc/postgresql/12/main/postgresql.conf
+```
+
 # Install postgress 11 for ubuntu
 
 0. Source : https://www.postgresql.org/download/linux/ubuntu/
