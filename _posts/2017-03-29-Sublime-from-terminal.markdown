@@ -28,4 +28,12 @@ And add to your `~/.bash_profile` following line:
 
 * * *
 
+ALSO the following plugin is seuper-duper useful: https://packagecontrol.io/packages/Compare%20Side-By-Side
+```bash
+CMD + Shift + P -> package Control: Install Package -> Compare Side-By-Side
+```
+I need it as air!
+
+* * *
+
 You can find more details in [SUBLIME TEXT 3 DOCUMENTATION](https://www.sublimetext.com/docs/3/osx_command_line.html "OS X Command Line")
