@@ -23,7 +23,7 @@ A &     # Run A in background.
 | `service postgresql96 status`       | Check status of *postgresql96* service |
 | `sudo service postgresql96 restart` | Restart *postgresql96* service |
 | | |
-| `du -hs *`                          | display summarized sized for each file and folder in current directory <br> **h** - human readable <br> **s** - summarized) |
+| `du -hs *`                          | display summarized sized for each file and folder in current directory <br> **h** - human readable <br> **s** - summarized|
 | | |
 | `grep -rni "string" *` | search some string recursively in all files where <br> **r** = recursive i.e, search subdirectories within the current directory <br> **n** = to print the line numbers to stdout <br> **i** = case insensitive search |
 | | |
