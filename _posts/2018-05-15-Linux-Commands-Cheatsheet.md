@@ -17,6 +17,7 @@ A &     # Run A in background.
 |---------|-------------|
 | `find / -name pg_hba.conf`          | Find file 'ph_hba.conf' file starting from the **root** |
 | `grep -rnw '/path/to/somewhere/' -e 'pattern'` | **-r** is recursive <br> **-n** is line number <br> **-w** stands for match the whole word <br> **-e** is the pattern used during the search |
+| `grep -rni "string" *` | search some string recursively in all files where <br> **-r** = recursive i.e, search subdirectories within the current directory <br> **-n** = to print the line numbers to stdout <br> **-i** = case insensitive search |
 | | |      
 | `chkconfig --list`                  | List all services |
 | `service --status-all`               | List running service |
@@ -24,8 +25,6 @@ A &     # Run A in background.
 | `sudo service postgresql96 restart` | Restart *postgresql96* service |
 | | |
 | `du -hs *`                          | display summarized sized for each file and folder in current directory <br> **h** - human readable <br> **s** - summarized|
-| | |
-| `grep -rni "string" *` | search some string recursively in all files where <br> **r** = recursive i.e, search subdirectories within the current directory <br> **n** = to print the line numbers to stdout <br> **i** = case insensitive search |
 | | |
 | `yum list ` | show all available packages |
 | `yum list installed` | show all installed packages |
