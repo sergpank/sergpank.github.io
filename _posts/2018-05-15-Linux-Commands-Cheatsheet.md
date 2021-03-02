@@ -16,11 +16,7 @@ A &     # Run A in background.
 | Command | Description |
 |---------|-------------|
 | `find / -name pg_hba.conf`          | Find file 'ph_hba.conf' file starting from the **root** |
-| `grep -rnw '/path/to/somewhere/' -e 'pattern'` |
--r or -R is recursive,
--n is line number, and
--w stands for match the whole word.
--e is the pattern used during the search |
+| `grep -rnw '/path/to/somewhere/' -e 'pattern'` | **-r** is recursive <br> **-n** is line number <br> **-w** stands for match the whole word <br> **-e** is the pattern used during the search |
 | | |      
 | `chkconfig --list`                  | List all services |
 | `service --status-all`               | List running service |
