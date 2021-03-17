@@ -59,3 +59,12 @@ SET GLOBAL log_output = 'table';
 
 select * from mysql.general_log;
 ```
+## Count connections from all hosts
+```sql
+select substr(host, 1, locate(':', host) - 1) as ip, count(*)
+from information_schema.processlist
+group by ip;
+
+-- for quick view
+show processlist;
+```
