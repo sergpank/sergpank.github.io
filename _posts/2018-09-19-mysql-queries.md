@@ -61,9 +61,10 @@ select * from mysql.general_log;
 ```
 ## Count connections from all hosts
 ```sql
-select substr(host, 1, locate(':', host) - 1) as ip, count(*)
+select substr(host, 1, locate(':', host) - 1) as ip, count(*) as connections_nr
 from information_schema.processlist
-group by ip;
+group by ip
+order by connections_nr desc;
 
 -- for quick view
 show processlist;
