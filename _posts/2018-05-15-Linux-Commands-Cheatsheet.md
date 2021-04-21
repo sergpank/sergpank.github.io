@@ -38,6 +38,7 @@ A &     # Run A in background.
 | | |
 | `gunzip <file.gzip>` | extract **.gzip** or **.gz** archive |
 | `zcat x.txt.gz >x.txt` OR `gzcat x.txt.gz > x.txt` OR `gunzip -c x.txt.gz > x.txt` | extract **gzip** without deleting archive|
+| `tar cvfz <archive.name.tar.gz> <file.name.1 file.name.2 ...>` | create **tar.gz** archive |
 | `tar xvfz <file.tar.gz>` | extract **.tar.gz** archive |
 | `tar xvf <file.tar>` | extract **.tar** archive
 | `zip -r <zip-name.zip> <directory-to-zip>` | zip a directory |
