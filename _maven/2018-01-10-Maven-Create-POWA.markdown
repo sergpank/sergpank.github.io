@@ -42,7 +42,7 @@ find the following archetype ---> maven-archetype-webapp
 </project>
 ```
 
-### 2. Теперь обновим версию библиотеки JUnit,  настроим проект на Java 8
+### 2. Теперь обновим версию библиотеки JUnit,  настроим проект на Java 8 (это можно сделать или через плагин или через проперти)
 
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -87,8 +87,14 @@ find the following archetype ---> maven-archetype-webapp
     <plugins>
 
       <plugin>
-        <groupId>org.mortbay.jetty</groupId>
-        <artifactId>maven-jetty-plugin</artifactId>
+        <groupId>org.eclipse.jetty</groupId>
+        <artifactId>jetty-maven-plugin</artifactId>
+        <version>11.0.2</version>
+        <configuration>
+          <httpConnector>
+            <port>80</port>
+          </httpConnector>
+        </configuration>
       </plugin>
 
     </plugins>
@@ -127,11 +133,12 @@ find the following archetype ---> maven-archetype-webapp
   - Для начала добавим новую зависимость:
 
 ```xml
-<dependency>
-  <groupId>javax.servlet</groupId>
-  <artifactId>servlet-api</artifactId>
-  <version>2.5</version>
-</dependency>
+    <dependency>
+      <groupId>jakarta.servlet</groupId>
+      <artifactId>jakarta.servlet-api</artifactId>
+      <version>5.0.0-M1</version>
+      <scope>provided</scope>
+    </dependency>
 ```
 
   - Далее создадим папку `src/main/java` и поместим в нее `SimpleServlet`:
@@ -139,9 +146,10 @@ find the following archetype ---> maven-archetype-webapp
 ```java
 package com.sergpank.web;
 
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 
