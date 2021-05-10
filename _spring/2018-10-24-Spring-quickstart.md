@@ -48,7 +48,7 @@ TADA!
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>5.0.7.RELEASE</version>
+      <version>5.2.14.RELEASE</version>
     </dependency>
   </dependencies>
 
