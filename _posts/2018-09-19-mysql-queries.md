@@ -9,6 +9,15 @@ date: 2018-09-19
 # connect to some db:
 mysql -h hostname -u username -pPassword schemaname
 
+# create dump of the database (DB - test; dump - test.dump; host - localhost):
+mysqldump -u root test > test.dump
+
+# restore dump of the database:
+mysql> create database test;
+mysql> use test;
+mysql> select database();
+mysql> source test.dump
+
 # create dump of the table:
 mysqldump -u username -pPassword -h hostname databasename tablename > dumpname
 
