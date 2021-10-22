@@ -18,3 +18,6 @@ Maybe it is worth considering bigger resolution with 0201 LEDS for chinese font.
 
 ## HD44780 character table with cyrrilic:
 ![cyrrilic HD44780](/img/hd44780_char_table.png)
+
+## And for chinese/japanese/korean/thai/etc characters 11x11 px should be enough:
+https://github.com/SolidZORO/zpix-pixel-font
