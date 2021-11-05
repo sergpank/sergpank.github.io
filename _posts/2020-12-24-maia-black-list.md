@@ -12,3 +12,4 @@ categories: maia
   * https://unimedia.info/ro/news/13678e0545c63b9d/foto-un-barbat-vaccinat-la-marginea-drumului-deputatul-pas-radu-marian-ar-fi-sters-poza-cu-acesta-dupa-mai-multe-critici-sunteti-culmea.html
 5. окт-ноя 2021 - Спровозирован газовый кризис, дефицит газа, рост цен, невыгодный контракт с Газпромом.
   * Расфукали 17 М$ на блеф перед газпромом (на закупку газа в Польше и Нидерландах). За решение газового кризиса поблагодарили США - https://www.youtube.com/watch?v=Xsb77H8V5SY
+  * Цена на газ для населения выросла с 4128 (235 долларов) до 9396 леев (536 долларов) за тысячу кубометров - https://ria.ru/20211105/tarif-1757835917.html
