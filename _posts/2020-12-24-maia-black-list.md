@@ -16,8 +16,8 @@ categories: maia
   * https://www.kp.md/online/news/4488604/
   * https://ria.ru/20211022/gaz-1755837040.html
   * https://www.fondsk.ru/news/2021/10/24/moldavane-ne-dali-pogasit-vechnyj-ogon-v-kishineve-54750.html
-  * https://point.md/ru/novosti/obschestvo/liudi-zazhigaiut-svechi-u-potukhshego-vechnogo-ognia-v-kishineve/
-  * Однако, к вечеру оказалось, что это были всего лишь "некоторые технические проблемы", и огонь снова зажгли - https://newsmaker.md/rus/novosti/minoborony-v-kishineve-na-memorialnom-komplekse-vechnost-zazhgli-vechnyy-ogon/
+  * Люди стали приносить свечи и лампадки к потушеному огню - https://point.md/ru/novosti/obschestvo/liudi-zazhigaiut-svechi-u-potukhshego-vechnogo-ognia-v-kishineve/
+  * К вечеру оказалось, что это были всего лишь "некоторые технические проблемы", и огонь снова зажгли - https://newsmaker.md/rus/novosti/minoborony-v-kishineve-na-memorialnom-komplekse-vechnost-zazhgli-vechnyy-ogon/
 4. **31-окт-2021** - Депутаты PAS прямо на улице ловят и прививают сельских жителей
   * https://bloknot-moldova.md/news/foto-vaktsinatsii-v-antisanitarnykh-usloviyakh-vyz-1409355
   * https://unimedia.info/ro/news/13678e0545c63b9d/foto-un-barbat-vaccinat-la-marginea-drumului-deputatul-pas-radu-marian-ar-fi-sters-poza-cu-acesta-dupa-mai-multe-critici-sunteti-culmea.html
