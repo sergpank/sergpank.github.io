@@ -21,7 +21,11 @@ categories: maia
 4. **31-окт-2021** - Депутаты PAS прямо на улице ловят и прививают сельских жителей
   * https://bloknot-moldova.md/news/foto-vaktsinatsii-v-antisanitarnykh-usloviyakh-vyz-1409355
   * https://unimedia.info/ro/news/13678e0545c63b9d/foto-un-barbat-vaccinat-la-marginea-drumului-deputatul-pas-radu-marian-ar-fi-sters-poza-cu-acesta-dupa-mai-multe-critici-sunteti-culmea.html
-5. **окт-ноя 2021** - Спровозирован газовый кризис, дефицит газа, рост цен, цена на газ для населения выросла в 3 раза.
+5. **окт-ноя 2021** - Спровоцирован газовый кризис, дефицит газа, рост цен, цена на газ для населения выросла в 3 раза.
   * Расфукали 17 М$ на блеф перед газпромом (на закупку газа в Польше и Нидерландах). За решение газового кризиса поблагодарили США - https://www.youtube.com/watch?v=Xsb77H8V5SY
   * Начали отключать вечные огни на мемориалах - https://eadaily.com/ru/news/2021/10/26/v-moldavii-vlasti-potushili-eshche-odin-vechnyy-ogon
   * Цена на газ для населения выросла с 4128 (235 долларов) до 9396 леев (536 долларов) за тысячу кубометров - https://ria.ru/20211105/tarif-1757835917.html
+6. **22-ноя-2021** - Газпром удевдомил молдавскую сторону, в соответствии с условиями контракта, о том, что в течение 48 часов поставки газа будут остановлены из-за просрочки текущего платежа - https://www.youtube.com/watch?v=neYFcCwqfXI
+  * Ход событий - https://tass.ru/ekonomika/12995667
+7. **23-ноя-2021** - Молдова направит "Газпрому" письмо с заверением, что деньги за потребление газа будут выплачены в конце этой недели - https://point.md/ru/novosti/obschestvo/spynu-and-34-net-razumnykh-i-ratsional-nykh-prichin-dlia-prekrashcheniia-postavok-gaza-den-gi-vydeliat-v-piatnitsuand-34/
+8. **24-ноя-2021** - Текущий платеж так и не поступил - https://tass.ru/ekonomika/13006257
