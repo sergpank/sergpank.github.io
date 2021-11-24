@@ -25,7 +25,8 @@ categories: maia
   * Расфукали 17 М$ на блеф перед газпромом (на закупку газа в Польше и Нидерландах). За решение газового кризиса поблагодарили США - https://www.youtube.com/watch?v=Xsb77H8V5SY
   * Начали отключать вечные огни на мемориалах - https://eadaily.com/ru/news/2021/10/26/v-moldavii-vlasti-potushili-eshche-odin-vechnyy-ogon
   * Цена на газ для населения выросла с 4128 (235 долларов) до 9396 леев (536 долларов) за тысячу кубометров - https://ria.ru/20211105/tarif-1757835917.html
-6. **22-ноя-2021** - Газпром удевдомил молдавскую сторону, в соответствии с условиями контракта, о том, что в течение 48 часов поставки газа будут остановлены из-за просрочки текущего платежа - https://www.youtube.com/watch?v=neYFcCwqfXI
+6. **11-ноя-2021** - Новая цена вполне божеская. Благодаря новому контракту страна сможеть экономить порядка 400 М$ в год, в сравнении с рыночными ценами -https://radiosputnik.ria.ru/20211110/moldaviya-1758428073.html
+7. **22-ноя-2021** - Газпром удевдомил молдавскую сторону, в соответствии с условиями контракта, о том, что в течение 48 часов поставки газа будут остановлены из-за просрочки текущего платежа - https://www.youtube.com/watch?v=neYFcCwqfXI
   * Ход событий - https://tass.ru/ekonomika/12995667
-7. **23-ноя-2021** - Молдова направит "Газпрому" письмо с заверением, что деньги за потребление газа будут выплачены в конце этой недели - https://point.md/ru/novosti/obschestvo/spynu-and-34-net-razumnykh-i-ratsional-nykh-prichin-dlia-prekrashcheniia-postavok-gaza-den-gi-vydeliat-v-piatnitsuand-34/
-8. **24-ноя-2021** - Текущий платеж так и не поступил - https://tass.ru/ekonomika/13006257
+8. **23-ноя-2021** - Молдова направит "Газпрому" письмо с заверением, что деньги за потребление газа будут выплачены в конце этой недели - https://point.md/ru/novosti/obschestvo/spynu-and-34-net-razumnykh-i-ratsional-nykh-prichin-dlia-prekrashcheniia-postavok-gaza-den-gi-vydeliat-v-piatnitsuand-34/
+9. **24-ноя-2021** - Текущий платеж так и не поступил - https://tass.ru/ekonomika/13006257
