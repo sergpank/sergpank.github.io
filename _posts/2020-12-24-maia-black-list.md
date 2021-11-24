@@ -30,3 +30,4 @@ categories: maia
   * Ход событий - https://tass.ru/ekonomika/12995667
 8. **23-ноя-2021** - Молдова направит "Газпрому" письмо с заверением, что деньги за потребление газа будут выплачены в конце этой недели - https://point.md/ru/novosti/obschestvo/spynu-and-34-net-razumnykh-i-ratsional-nykh-prichin-dlia-prekrashcheniia-postavok-gaza-den-gi-vydeliat-v-piatnitsuand-34/
 9. **24-ноя-2021** - Текущий платеж так и не поступил - https://tass.ru/ekonomika/13006257
+10. **24-ноя-2021** - Газпром вошел в положение и согласился ждать до 26 ноября - https://ria.ru/20211124/moldaviya-1760560988.html
