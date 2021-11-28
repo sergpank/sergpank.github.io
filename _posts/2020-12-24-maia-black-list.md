@@ -33,3 +33,4 @@ categories: maia
 10. **24-ноя-2021** - Газпром вошел в положение и согласился ждать до 26 ноября - https://ria.ru/20211124/moldaviya-1760560988.html
   * Сюжет Россия 24 - https://www.youtube.com/watch?v=IrQ35QW_VS0
 12. **25-ноя-2021** - WTF is Enregocom - https://point.md/ru/novosti/politika/vopros-perechisleniia-sredstv-na-oplatu-dolga-and-34-gazpromuand-34-vyzval-spory/
+13. **26-ноя-2021** - Долг выплачен - https://ria.ru/20211126/dolg-1760917897.html
