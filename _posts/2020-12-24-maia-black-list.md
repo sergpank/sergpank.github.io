@@ -41,5 +41,7 @@ categories: maia
 1. **25-ноя-2021** - WTF is Enregocom - https://point.md/ru/novosti/politika/vopros-perechisleniia-sredstv-na-oplatu-dolga-and-34-gazpromuand-34-vyzval-spory/
 1. **26-ноя-2021** - Долг выплачен - https://ria.ru/20211126/dolg-1760917897.html
 1. **12-янв-2022** - Цена на газ выросла с 450 до 646 долларов за куб, денег нет - https://ria.ru/20220111/dodon-1767356781.html?in=t
-1. **19-янв-2022** - Трагикомедия вокруг газа продолжается. Опять не успели собрать денег. Опять просят отсрочку. https://ria.ru/20220119/gaz-1768525416.html
+1. **19-янв-2022** - Трагикомедия вокруг газа продолжается. Опять не успели собрать денег. Опять просят отсрочку. 
+ * https://ria.ru/20220119/gaz-1768525416.html
+ * https://point.md/ru/novosti/ekonomika/and-34-gazpromand-34-snova-prigrozil-moldove-otkliucheniem-gaza/
 
