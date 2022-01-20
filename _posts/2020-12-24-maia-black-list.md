@@ -44,4 +44,8 @@ categories: maia
 1. **19-янв-2022** - Трагикомедия вокруг газа продолжается. Опять не успели собрать денег. Опять просят отсрочку. 
  * https://ria.ru/20220119/gaz-1768525416.html
  * https://point.md/ru/novosti/ekonomika/and-34-gazpromand-34-snova-prigrozil-moldove-otkliucheniem-gaza/
+1. **20-янв-2022** - Объявлено чрезвычайное положение. Правительство авансом выдало Молдовагазу средства, предназначенные для компенсации населению роста тарифов на газ. Это либо дикий непрофессионализм, либо срежиссированный кризис для введения ЧП на 60 дней (и какой из вариантов хуже?)
+ * https://ria.ru/20220120/gaz-1768705733.html
+ * Комиссия по чрезвыйчайным ситуациям нашла денежку - https://point.md/ru/novosti/ekonomika/and-34-moldovagazand-34-obespechit-polnuiu-oplatu-avansa-and-34-gazpromuand-34-do-kontsa-dnia/
+ * А премьер заявила что будут вводить ЧП столько раз сколько потребуется - https://point.md/ru/novosti/politika/prem-er-budem-trebovat-vvedeniia-chp-stol-ko-raz-skol-ko-eto-ponadobitsia/
 
