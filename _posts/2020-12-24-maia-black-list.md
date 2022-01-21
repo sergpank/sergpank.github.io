@@ -48,5 +48,5 @@ categories: maia
  * https://ria.ru/20220120/gaz-1768705733.html
  * Комиссия по чрезвыйчайным ситуациям нашла денежку - https://point.md/ru/novosti/ekonomika/and-34-moldovagazand-34-obespechit-polnuiu-oplatu-avansa-and-34-gazpromuand-34-do-kontsa-dnia/
  * А премьер заявила что будут вводить ЧП столько раз сколько потребуется - https://point.md/ru/novosti/politika/prem-er-budem-trebovat-vvedeniia-chp-stol-ko-raz-skol-ko-eto-ponadobitsia/
-1. **21-янв-2020** - Премьер Гаврилица заявляет, что "Газпром большая серьёзная компания мог бы и потерпеть 10 дней или месяц" (5:43), а не производить такой недружественныый жест - https://point.md/ru/novosti/politika/gavrilitsa-and-34-gazpromand-34-bol-shaia-ser-ioznaia-kompaniia-platezhi-mozhno-bylo-otsrochit/
+1. **21-янв-2020** - Премьер Гаврилица заявляет, что "Газпром большая серьёзная компания мог бы и потерпеть 10 дней или месяц" (5:43), а не производить такой недружественныый жест (7:37) - https://point.md/ru/novosti/politika/gavrilitsa-and-34-gazpromand-34-bol-shaia-ser-ioznaia-kompaniia-platezhi-mozhno-bylo-otsrochit/
 
