@@ -2,7 +2,8 @@
 layout: post
 title:  "Maia Black List"
 date:   2020-12-24 00:00:01 +0200
-categories: maia
+category: news
+collection: news
 ---
 
 1. **22-янв-2021** - Лишила русский язык статуса "языка межнационального общения"
