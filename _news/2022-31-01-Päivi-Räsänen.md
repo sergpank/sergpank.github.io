@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Суд над Пяйви Рясянен"
-date:   2022-01-31 00:00:01 +0200
+date:   2022-01-31 08:00:00 +0200
 category: news
 collection: news
 ---
