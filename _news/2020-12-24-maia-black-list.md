@@ -52,3 +52,6 @@ collection: news
 1. **21-янв-2022** - Премьер Гаврилица заявляет, что "Газпром большая серьёзная компания мог бы и потерпеть 10 дней или месяц" (5:43), а не производить такой недружественныый жест (7:37) - https://point.md/ru/novosti/politika/gavrilitsa-and-34-gazpromand-34-bol-shaia-ser-ioznaia-kompaniia-platezhi-mozhno-bylo-otsrochit/
 1. **24-янв-2022** - За критику власти в стране, многочисленыыми проверками параллизована работат мэрии Кишинёва - https://t.me/ionceban/6785
 1. **20-фев-2022** - Продолжаются попытки отдать Республиканский Стадион под посольство США ибо "после огромных инвестиций, которые Правительство США сделало для развития и модернизации Республики Молдова, продажа этой земли является жестом благодарности" - https://point.md/ru/novosti/politika/karp-o-respublikanskom-stadione-my-ob-iavim-podrobnosti-peredachi-etoi-zemli/
+1. **19-апр-2022** - Призвала отправить георгиевскую ленту в мусорное ведро истории 
+ * https://radiosputnik.ria.ru/20220419/sandu-1784334598.html
+ * https://point.md/ru/novosti/politika/sandu-mesto-georgievskoi-lenty-na-svalke-istorii/
