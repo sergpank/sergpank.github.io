@@ -57,3 +57,5 @@ collection: news
  * https://point.md/ru/novosti/politika/sandu-mesto-georgievskoi-lenty-na-svalke-istorii/
 1. **20-апр-2022** - Впервые за Благодатным огнем отправится официальная делегация Бессарабской Митрополии, которая подчиняется Румынии: У них менее 5 процентов прихожан в Молдове
  * https://www.kp.md/daily/27382/4575620/
+1. **20-апр-2022** - Гражданин США в правительстве РМ проталкавает закон о передаче Республиканского Стадиона под базу морпехов США
+ * https://point.md/ru/novosti/obschestvo/grazhdanin-ssha-iz-pravitel-stva-peredast-posol-stvu-ssha-stadion-v-tsentre-kishineva/
