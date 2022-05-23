@@ -59,3 +59,9 @@ collection: news
  * https://www.kp.md/daily/27382/4575620/
 1. **20-апр-2022** - Гражданин США в правительстве РМ проталкавает закон о передаче Республиканского Стадиона под базу морпехов США
  * https://point.md/ru/novosti/obschestvo/grazhdanin-ssha-iz-pravitel-stva-peredast-posol-stvu-ssha-stadion-v-tsentre-kishineva/
+1. **9-мая-2022** - Внезапно заболела и не смогла как посетить мемориал так и встретиться с генсеком ООН. Странное совпадение.
+ * <https://point.md/ru/novosti/politika/sandu-otmenila-uchastie-vo-vsekh-meropriiatiiakh-9-maia-iz-za-problem-so-zdorov-em/>
+ * <https://point.md/ru/novosti/obschestvo/sovetniki-maii-sandu-pochtili-pamiat-pavshikh-vo-vtoroi-mirovoi-voine/>
+ * <https://point.md/ru/novosti/politika/gavrilitsa-prezidentu-prishlos-izmenit-svoe-raspisanie-po-sostoianiiu-zdorov-ia/>
+ * <https://point.md/ru/novosti/politika/sandu-vstretilas-s-gensekom-oon-obsudili-posledstviia-voiny-v-ukraine-dlia-rm/>
+
