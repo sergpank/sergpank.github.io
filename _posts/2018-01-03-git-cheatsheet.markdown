@@ -69,6 +69,14 @@ date: 2018-01-03
 | |
 | `git rm --cached <file_name>`                      | Stop tracking file and remove it from git index
 
+## Disable git log pager
+
+For current repo only:
+`git config pager.log false`
+
+For your git installation (i. e. all repos on your machine):
+`git config --global pager.log false`
+
 ## Working with remote (when you have a damn fork)
 
 | Command                              | Description 
