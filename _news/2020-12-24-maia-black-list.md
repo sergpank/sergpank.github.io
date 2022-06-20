@@ -64,4 +64,6 @@ collection: news
  * <https://point.md/ru/novosti/obschestvo/sovetniki-maii-sandu-pochtili-pamiat-pavshikh-vo-vtoroi-mirovoi-voine/>
  * <https://point.md/ru/novosti/politika/gavrilitsa-prezidentu-prishlos-izmenit-svoe-raspisanie-po-sostoianiiu-zdorov-ia/>
  * <https://point.md/ru/novosti/politika/sandu-vstretilas-s-gensekom-oon-obsudili-posledstviia-voiny-v-ukraine-dlia-rm/>
+1. **19-июня-2022** - Подписала закон о запрете российских новостных программ.
+ * <https://www.dw.com/ru/prezident-moldovy-podpisala-zakon-o-zaprete-novostnyh-programm-iz-rossii/a-62181830/>
 
