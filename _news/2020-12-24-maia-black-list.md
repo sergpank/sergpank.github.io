@@ -7,18 +7,21 @@ collection: news
 ---
 
 1. **22-янв-2021** - Лишила русский язык статуса "языка межнационального общения"
-  * https://360tv.ru/news/tekst/sandu-ne-sderzhala/
-  * https://eurasia.expert/v-moldove-otmenili-zakon-o-russkom-kak-yazyke-mezhnatsionalnogo-obshcheniya/
-  * https://tsargrad.tv/news/ne-proshlo-i-mesjaca-sandu-prevratila-strashilki-v-realnost-narushiv-obeshhanie-o-russkom-jazyke_316594
-1. **26-фев-2021** - Лично чинит препятсвия регистрации вакцины Sputnik-V - https://ria.ru/20210226/moldaviya-1599073485.html
-  * **26-апр-2021** - Получено 182 тыс. доз Sputnik V - https://ru.sputnik.md/20210426/kak-raspredelyat-vakcinu-sputnik-v-i-kto-smozhet-projti-vakcinaciyu-34530162.html
-1. **15-мая-2021** - Вакцинация все еще не организована, западные партнеры не спешать поставлять лекарство - https://aif.ru/politics/world/bardak_i_sluh_o_trupah_ne_poluchiv_vakcinu_ot_es_moldaviya_zhdyot_sputnik_v
+  * <https://360tv.ru/news/tekst/sandu-ne-sderzhala/>
+  * <https://eurasia.expert/v-moldove-otmenili-zakon-o-russkom-kak-yazyke-mezhnatsionalnogo-obshcheniya/>
+  * <https://tsargrad.tv/news/ne-proshlo-i-mesjaca-sandu-prevratila-strashilki-v-realnost-narushiv-obeshhanie-o-russkom-jazyke_316594/>
+1. **26-фев-2021** - Лично чинит препятсвия регистрации вакцины Sputnik-V
+  * <https://ria.ru/20210226/moldaviya-1599073485.html/>
+1. **26-апр-2021** - Получено 182 тыс. доз Sputnik V
+  * <https://ru.sputnik.md/20210426/kak-raspredelyat-vakcinu-sputnik-v-i-kto-smozhet-projti-vakcinaciyu-34530162.html/>
+1. **15-мая-2021** - Вакцинация все еще не организована, западные партнеры не спешать поставлять лекарство
+  * <https://aif.ru/politics/world/bardak_i_sluh_o_trupah_ne_poluchiv_vakcinu_ot_es_moldaviya_zhdyot_sputnik_v/>
 1. **21-июл-2021** - Республиканский стадион решением КС в очередной раз отдан под строительство посольства США
-  * https://ehomd.info/2021/07/21/respublikanskij-stadion-otdali-amerikantsam-nesmotrya-na-vozmushheniya-sotsialistov/
-  * Санду лично лобировала это решение - https://point.md/ru/novosti/politika/sandu-vlasti-ssha-obizheny-stadion-zakhvatyvaiut-v-korystnykh-interesakh/
+  * <https://ehomd.info/2021/07/21/respublikanskij-stadion-otdali-amerikantsam-nesmotrya-na-vozmushheniya-sotsialistov/>
+  * Санду лично лобировала это решение - <https://point.md/ru/novosti/politika/sandu-vlasti-ssha-obizheny-stadion-zakhvatyvaiut-v-korystnykh-interesakh/>
 1. **июл-авг-2021** - Спровоцирован дефицит топлива и как следствие рост цен
-  * https://esp.md/ru/sobytiya/2021/07/14/smi-soobshchayut-o-deficite-topliva-chto-proishodit-na-zapravkah-v-belcah
-  * https://ru.sputnik.md/20210819/pochemu-v-moldove-nedostatok-topliva-i-chto-budet-s-tsenami-na-benzin-v-sentyabre-44059970.html
+  * <https://esp.md/ru/sobytiya/2021/07/14/smi-soobshchayut-o-deficite-topliva-chto-proishodit-na-zapravkah-v-belcah/>
+  * <https://ru.sputnik.md/20210819/pochemu-v-moldove-nedostatok-topliva-i-chto-budet-s-tsenami-na-benzin-v-sentyabre-44059970.html/>
 1. **22-окт-2021** - Министерство Обороны погасило вечный огонь на мемориале
   * https://www.kp.md/online/news/4488604/
   * https://ria.ru/20211022/gaz-1755837040.html
