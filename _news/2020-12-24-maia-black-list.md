@@ -69,4 +69,6 @@ collection: news
  * <https://point.md/ru/novosti/politika/sandu-vstretilas-s-gensekom-oon-obsudili-posledstviia-voiny-v-ukraine-dlia-rm/>
 1. **19-июня-2022** - Подписала закон о запрете российских новостных программ.
  * <https://www.dw.com/ru/prezident-moldovy-podpisala-zakon-o-zaprete-novostnyh-programm-iz-rossii/a-62181830/>
+1. **3-авг-2022** - Спыну собрался заменить российский газ ивами, которые еще нужно вырастить
+ * <https://ria.ru/20220803/energetika-1806819686.html>
 
