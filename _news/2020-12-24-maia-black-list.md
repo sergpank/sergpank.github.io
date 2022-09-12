@@ -71,4 +71,10 @@ collection: news
  * <https://www.dw.com/ru/prezident-moldovy-podpisala-zakon-o-zaprete-novostnyh-programm-iz-rossii/a-62181830/>
 1. **3-авг-2022** - Спыну собрался заменить российский газ ивами, которые еще нужно вырастить
  * <https://ria.ru/20220803/energetika-1806819686.html>
+1. **сент-2022** - Не дали восстановить авиасообщение с Москвой
+  * <https://point.md/ru/novosti/obschestvo/air-moldova-soobshchaet-o-vozobnovlenii-poletov-v-moskvu/>
+  * <https://point.md/ru/novosti/obschestvo/spynu-o-priamykh-reisakh-v-moskvu-eta-kompaniia-sdelala-bezotvetstvennoe-zaiavlenie/>
+  * <https://point.md/ru/novosti/obschestvo/oga-zapretil-natsional-nym-aviaperevozchikam-polety-iz-moldovy-v-moskvu/>
+  * <https://point.md/ru/novosti/politika/dodon-vlasti-zapreshchaiut-perelety-v-moskvu-chtoby-ponravit-sia-zapadnym-kuratoram/>
+  * <https://point.md/ru/novosti/obschestvo/air-moldova-posle-zapreta-na-polety-v-moskvu-my-vprave-obratit-sia-v-sud/>
 
