@@ -77,4 +77,5 @@ collection: news
   * <https://point.md/ru/novosti/obschestvo/oga-zapretil-natsional-nym-aviaperevozchikam-polety-iz-moldovy-v-moskvu/>
   * <https://point.md/ru/novosti/politika/dodon-vlasti-zapreshchaiut-perelety-v-moskvu-chtoby-ponravit-sia-zapadnym-kuratoram/>
   * <https://point.md/ru/novosti/obschestvo/air-moldova-posle-zapreta-na-polety-v-moskvu-my-vprave-obratit-sia-v-sud/>
-
+1. **03-окт-2022** - Есть планы по мобилизации молдован на николаевский фронт
+  * <https://lenta.ru/news/2022/10/03/moldova_mob/>
