@@ -79,3 +79,8 @@ collection: news
   * <https://point.md/ru/novosti/obschestvo/air-moldova-posle-zapreta-na-polety-v-moskvu-my-vprave-obratit-sia-v-sud/>
 1. **03-окт-2022** - Есть планы по мобилизации молдован на николаевский фронт
   * <https://lenta.ru/news/2022/10/03/moldova_mob/>
+1. **04-окт-2022** - Полное видео пранка
+  * <https://t.me/Russiacalling/534/>
+  * <https://www.reddit.com/user/VovanxLexus/comments/xv9oyu/full_prank_with_moldovan_president_maia_sandu/?utm_source=share&utm_medium=web2x&context=3/>
+  * <https://rutube.ru/video/d9a59f469dc44bc6ea07f5863d76c968/>
+  * <https://vk.com/theprankvideo?w=wall-37359595_41099/>
