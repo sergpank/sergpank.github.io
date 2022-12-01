@@ -84,3 +84,5 @@ collection: news
   * <https://www.reddit.com/user/VovanxLexus/comments/xv9oyu/full_prank_with_moldovan_president_maia_sandu/?utm_source=share&utm_medium=web2x&context=3/>
   * <https://rutube.ru/video/d9a59f469dc44bc6ea07f5863d76c968/>
   * <https://vk.com/theprankvideo?w=wall-37359595_41099/>
+1. **01-дек-2022** - Парлямент одобрил поправки отменяющие бюллетени на русском языке
+  * <https://lenta.ru/news/2022/12/01/mold_rus/>
