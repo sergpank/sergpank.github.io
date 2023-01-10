@@ -24,4 +24,9 @@ collection: news
 
 Я буду следить за этим делом, ибо сам факт его существования для меня немыслим.
 
-1. **31-янв-2022** `"Вопрос жизни и смерти". Европе грозит раскол из-за библейской цитаты https://ria.ru/20220131/bibliya-1770031973.html`
+1. **31-янв-2022** `"Вопрос жизни и смерти". Европе грозит раскол из-за библейской цитаты` <https://ria.ru/20220131/bibliya-1770031973.html/>
+2. **30-мар-2022** Суд оправдал Пяйви Рясянен
+* <https://reporter.lcms.org/2022/finnish-lutherans-fully-acquitted/>
+* <https://foma.ru/sud-v-finljandii-opravdal-politika-hristianku-zashhishhajushhuju-tradicionnyj-brak.html/>
+* <https://spzh.news/ru/news/87418-sud-finlyandii-snyal-obvinenija-s-eks-glavy-mvd-kritikovavshej-lgbt/>
+* <https://ru.wikipedia.org/wiki/Рясянен,_Пяйви/>
