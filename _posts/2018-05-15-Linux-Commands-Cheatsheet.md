@@ -49,3 +49,6 @@ A &     # Run A in background.
 | `service haproxy reload` | update HAProxy configuration |
 | | |
 | `scp <file_name> <host>:/<path_on_host>` | copy file to remote host |
+| | |
+| `sslscan <host> | tests SSL/TLS enabled services to discover supported cipher suites |
+| | |
