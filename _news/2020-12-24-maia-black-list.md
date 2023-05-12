@@ -86,7 +86,7 @@ collection: news
   * <https://vk.com/theprankvideo?w=wall-37359595_41099/>
 1. **01-дек-2022** - Парлямент одобрил поправки отменяющие бюллетени на русском языке
   * <https://lenta.ru/news/2022/12/01/mold_rus/>
-1. **10-мая-2023** - По инициативе Маи Санду денонсировано соглашение о создании и деятельности межгосударственной телерадиокомпании "Мир"
+1. **11-мая-2023** - По инициативе Маи Санду денонсировано соглашение о создании и деятельности межгосударственной телерадиокомпании "Мир"
   * <https://point.md/ru/novosti/politika/parlament-rastorg-dogovorennosti-o-deiatel-nosti-teleradiokompanii-and-34-mirand-34/>
   * <https://md.sputniknews.ru/20230429/politicheskaya-nedelya-moldova-otmena-finansirovaniya-kanala-mir-intervyu-dodona-shtrafy-za-56709223.html/>
   * <https://www.kp.md/online/news/5168784/>
