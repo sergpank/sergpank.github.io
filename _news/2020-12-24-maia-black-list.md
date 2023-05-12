@@ -90,3 +90,4 @@ collection: news
   * <https://point.md/ru/novosti/politika/parlament-rastorg-dogovorennosti-o-deiatel-nosti-teleradiokompanii-and-34-mirand-34/>
   * <https://md.sputniknews.ru/20230429/politicheskaya-nedelya-moldova-otmena-finansirovaniya-kanala-mir-intervyu-dodona-shtrafy-za-56709223.html/>
   * <https://www.kp.md/online/news/5168784/>
+  * <https://www.rbc.ru/rbcfreenews/645cd2dd9a7947fae6cc1b98/>
