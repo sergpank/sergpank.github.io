@@ -91,3 +91,5 @@ collection: news
   * <https://md.sputniknews.ru/20230429/politicheskaya-nedelya-moldova-otmena-finansirovaniya-kanala-mir-intervyu-dodona-shtrafy-za-56709223.html/>
   * <https://www.kp.md/online/news/5168784/>
   * <https://www.rbc.ru/rbcfreenews/645cd2dd9a7947fae6cc1b98/>
+1. **30-мая-2023** - Разрушение страны, унижение пророссийской части общества, выход из СНГ, репресси против оппозиции
+  * <https://ria.ru/20230530/moldaviya-1874849489.html>
