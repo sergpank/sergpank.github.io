@@ -93,3 +93,11 @@ collection: news
   * <https://www.rbc.ru/rbcfreenews/645cd2dd9a7947fae6cc1b98/>
 1. **30-мая-2023** - Разрушение страны, унижение пророссийской части общества, выход из СНГ, репресси против оппозиции
   * <https://ria.ru/20230530/moldaviya-1874849489.html>
+1. **01-июня-2023** - По случаю саммита Европейского Политического Сообщества в Бульбоаке введены драконосвкие запретительные меры. На два дня закрыто воздушное пространство страны. Отменены международные рейсы автобусов (выехать тоже не возможно). Людей не пускают на центральные улицы города. Жителям Бульбок не разрешают выходить из домов, некоторым выдают спецпропуска.
+  * <https://dumskaya.net/news/mezhdunarodnyy-aeroport-kishinev-zakroyut-na-vre-175362/>
+  * <https://ru.armeniasputnik.am/20230531/moldova-na-2-dnya-zakroet-vozdushnoe-prostranstvo-iz-za-sammita-evropeyskogo-politsoobschestva-60468704.html>
+  * <https://newsmaker.md/rus/novosti/v-moldove-1-i-2-iyunya-zakroyut-vozdushnoe-prostranstvo-a-parkovku-vozle-aeroporta-zakroyut-na-nedelyu/>
+  * Простым людям запрещен доступ на многие улицы Кишинева - <https://www.kp.md/daily/27510/4771548/>
+  * В связи с проведением Европейского саммита мероприятия ко Дню защиты детей перенесены с 1 июня, когда традиционно отмечается этот праздник, на 2 июня - <https://www.kp.md/online/news/5295983/>
+  * Приняты беспрецедентные меры безопасности во время евросаммита - <https://www.kp.md/online/news/5295844/>
+  * Управление гражданской авиации объявило о закрытии воздушного пространства Молдовы - <https://www.kp.md/online/news/5295754/>
