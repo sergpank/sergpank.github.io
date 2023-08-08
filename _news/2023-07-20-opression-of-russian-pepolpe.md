@@ -10,6 +10,7 @@ collection: news
  - запись конфликта - <https://www.kp.md/online/news/5370956/>
  - заявление руководства РКБ - <https://www.kp.md/online/news/5371581/>
  - это была просто шутка - <https://www.kp.md/daily/27531/4797023/>
- - врачу поступают угрозы, он не считает их шуткой - <https://eadaily.com/ru/news/2023/07/21/vrach-nacist-iz-moldavii-zhaluetsya-na-ugrozy-ya-lish-shutil-nad-pacientom>
+ - врачу поступают угрозы, он не считает их шуткой - <https://eadaily.com/ru/news/2023/07/21/vrach-nacist-iz-moldavii-zhaluetsya-na-ugrozy-ya-lish-shutil-nad-pacientom/>
+ - в результате врач отделался курсами по этике - <https://lenta.ru/news/2023/08/08/vrachmoldav/>
 2. 2023-08-04 - Бывший латвийский депутат - Рейнис Знотиньш - оскорбил соседа и угрожал выслать всех русскоязычных из страны 
  - <https://ria.ru/20230804/konflikt-1888089178.html/>
