@@ -22,3 +22,12 @@ collection: news
  - <https://rus.lsm.lv/statja/novosti/obschestvo/12.06.2023-v-nacionalnoi-biblioteke-ne-budut-ubirat-plakat-vozmutivsii-soglasie.a512521/>
  - <https://rus.delfi.lv/news/daily/latvia/byuro-ombudsmena-plakat-russkij-okkupant-luchshee-udobrenie-ne-yazyk-nenavisti.d?id=55867200>
  - <https://novayagazeta.ee/articles/2023/08/22/plakat-russkii-okkupant-luchshee-udobrenie-ne-razzhigaet-nenavist-latviiskoe-biuro-ombudsmena-news/>
+5. 2023-09-24 - В Эстонии запрещают ездить на автомобилях с наклейкой "Я Русский"
+ - <https://baltija.eu/2023/09/24/estonskaya-policziya-nachala-ustraivat-oblavy-na-mashiny-s-naklejkami-ya-russkij-i-ya-russkaya/>
+ - <https://www.mk.ru/social/2023/09/25/fleshmob-ya-russkiy-v-estonii-v-organizacii-avtoprobega-zapodozrili-specsluzhby.html/>
+ - им противно - <https://pikabu.ru/story/yestonskaya_politsiya_zastavila_voditeley_snyat_s_mashin_nakleyki_ya_russkiy_10678817/>
+6. 2023-09-26 - В Латвии в детском саду девочку за каждое русское слово публично заставляют делать по 10 приседаний
+ - <https://dzen.ru/b/ZRKla0bf5Dvz8hV1/>
+ - <https://sell-off.livejournal.com/58797331.html/>
+ - на самом деле это старая ОУНовская методика - <http://www.moscow-post.su/in_world/001290675945733/>
+
