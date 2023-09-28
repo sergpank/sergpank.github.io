@@ -30,4 +30,4 @@ collection: news
  - <https://dzen.ru/b/ZRKla0bf5Dvz8hV1/>
  - <https://sell-off.livejournal.com/58797331.html/>
  - на самом деле это старая ОУНовская методика - <http://www.moscow-post.su/in_world/001290675945733/>
-
+ - дело набирает оборот - <https://ria.ru/20230928/latviya-1899265469.html/>
