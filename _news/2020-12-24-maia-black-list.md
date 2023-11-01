@@ -109,8 +109,9 @@ collection: news
 1. **27-окт-2023** - Продолжаются гонения на Православную Церковь Молдовы (подчиненной РПЦ) и продвижение Бессарабского патриархата (подчиненного Румынии)
   * <https://ria.ru/20231027/moldaviya-1905459126.html/>
 1. **30-окт-2023** - Заблокирован сайт комсомолки - kp.md и еще 30 сайтов "которые распространяют ложную информацию, разжигающих ненависть и войну, в условиях чрезвычайного положения"
-  * https://bloknot-moldova.ru/news/polnyy-spisok-otklyuchennykh-v-moldove-31-novostny-1663835
-  * https://www.moldcell.md/rus/business/node/33424
+  * <https://www.md.kp.media/online/news/5521700/>
+  * <https://bloknot-moldova.ru/news/polnyy-spisok-otklyuchennykh-v-moldove-31-novostny-1663835/>
+  * <https://www.moldcell.md/rus/business/node/33424/>
      * График блокировки показательный и достоен увековечения:
      * 24.02.2022 – www.rubaltic.ru
      * 25.02.2022 – www.vkurse.md
