@@ -108,3 +108,24 @@ collection: news
   * <https://www.kp.md/daily/27560/4828715/>
 1. **27-окт-2023** - Продолжаются гонения на Православную Церковь Молдовы (подчиненной РПЦ) и продвижение Бессарабского патриархата (подчиненного Румынии)
   * <https://ria.ru/20231027/moldaviya-1905459126.html/>
+1. **30-окт-2023** - Заблокирован сайт комсомолки - kp.md и еще 30 сайтов "которые распространяют ложную информацию, разжигающих ненависть и войну, в условиях чрезвычайного положения"
+  * https://bloknot-moldova.ru/news/polnyy-spisok-otklyuchennykh-v-moldove-31-novostny-1663835
+  * https://www.moldcell.md/rus/business/node/33424
+     * График блокировки показательный и достоен увековечения:
+     * 24.02.2022 – www.rubaltic.ru
+     * 25.02.2022 – www.vkurse.md
+     * 26.02.2022 – www.sputnik.md și www.gagauznews.md, www.ehomd.info
+     * 28.02.2022 – www.acasa-24.site
+     * 07.03.2022 – www.rta.md
+     * 10.03.2022 – www.flux.md ; www.iurierosca.md ; www.rosca.md
+     * 15.03.2022 – www.indigolotos.info
+     * 01.08.2022 – svpressa.ru
+     * 24.10.2022 – www.moldnod.ru si www.rusnod.ru
+     * 19.01.2023 – eadaily.com și bloknot.ru
+     * 06.02.2023 – rubaltik.ru
+     * 23.03.2023 – sputniknews.com ; md.sputniknews.com ; ro.sputniknews.com ; sputniknews.ru ; md.sputniknews.ru
+     * 20.04.2023 – politnavigator.net ; politnavigator.news ; news-front.info
+     * 24.10.2023 - 22 заблокированных сайта - https://1tv.ru ; https://vgtrk.com ; https://ntv.ru ; https://tsargrad.tv ; https://rt.com ; https://rtr-planeta.com ; https://russian.rt.com ; https://5-tv.ru ; https://tvzvezda.ru ; https://vesti.ru ; https://radiozvezda.ru ; https://spastv.ru ; https://tvc.ru ; https://radiovesti.ru ; https://ren.tv ; https://radiomayak.ru ; https://mirtv.ru ; https://smotrim.ru ; https://mir24.tv ; https://m24.ru ; https://vgtrk.ru ; https://360tv.ru.
+     * 30.10.2023 - 31 заблокированных сайта - https://kp.md ; https://aif.md ; https://orizont.tv ; https://itv.md ; https://prime.md ; https://publika.md ; https://canal2.md ; https://canal3.md ; https://primul.md ; https://rtr.md ; https://a-tv.md ; https://cenzura.md ; https://tv6.md ; https://orheitv.md ; https://vedomosti.md ; https://enews.md ; https://regtrends.com ; https://kp.ru ; https://tass.ru ; https://lenta.ru ; https://pravda.ru ; https://www.aif.ru ; https://www.rg.ru ; https://www.interfax.ru ; https://mk.ru ; https://www.iz.ru ; https://riafan.ru ; https://regnum.ru ; https://pnp.ru ; https://radiosputnik.ru ; https://rline.tv
+     * Как и скан приказа от 30 октября 2023 г :
+     * ![sib-ordit-74](/img/sib-ordin-74.jpg)
