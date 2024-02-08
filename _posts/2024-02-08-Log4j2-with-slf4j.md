@@ -119,6 +119,6 @@ public class App
 2024-02-08T16:14:51,298  INFO App: Hello Log!
 ```
 
-6 . Some working ecample can be found in this repository : <https://github.com/sergpank/log4j2-slf4j-logging-mvp/>
+6 . Some working example can be found in this repository : <https://github.com/sergpank/log4j2-slf4j-logging-mvp/>
 
 7 . Happy Logging!
