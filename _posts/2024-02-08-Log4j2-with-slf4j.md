@@ -14,9 +14,10 @@ fot googling and fixing the configuration/dependency issue.
 
 Here is a quick, brief and complete istruction how to configure logging using Log4j2 and SLF4j in any scratch project.
 
-1. Create an empty project using `mvn archetype:generate`
+1 . Create an empty project using `mvn archetype:generate`
   - Archetype `org.apache.maven.archetypes:maven-archetype-quickstart` will be just fine, and it is the default one.
-2. Add the following dependencies to your `pom.xml` file:
+
+2 . Add the following dependencies to your `pom.xml` file:
 ```xml
 <dependencies>
     <!-- LOG4J -->
@@ -58,7 +59,8 @@ Here is a quick, brief and complete istruction how to configure logging using Lo
     </dependency>
 </dependencies>
 ```
-3. Add `log42.xml` config file to `/src/main/resources` dir :
+
+3 . Add `log42.xml` config file to `/src/main/resources` dir :
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
@@ -92,7 +94,8 @@ Here is a quick, brief and complete istruction how to configure logging using Lo
     </Loggers>
 </Configuration>
 ```
-4. Now you can use logger:
+
+4 . Now you can use logger:
 ```java
 package laboratory;
 
@@ -110,9 +113,11 @@ public class App
     }
 }
 ```
-5. And you shoud get the following log message in terminal and in log/app.log file:
+
+5 . And you shoud get the following log message in terminal and in log/app.log file:
 ```bash
 2024-02-08T16:14:51,298  INFO App: Hello Log!
 ```
-6. Some working ecample can be found in this repository : <https://github.com/sergpank/log4j2-slf4j-logging-mvp/>
-7. Happy Logging!
+
+6 . Some working ecample can be found in this repository : <https://github.com/sergpank/log4j2-slf4j-logging-mvp/>
+7 . Happy Logging!
