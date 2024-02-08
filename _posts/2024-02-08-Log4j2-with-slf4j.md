@@ -120,4 +120,5 @@ public class App
 ```
 
 6 . Some working ecample can be found in this repository : <https://github.com/sergpank/log4j2-slf4j-logging-mvp/>
+
 7 . Happy Logging!
