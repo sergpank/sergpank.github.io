@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "How to use proxy for Curl and Java htt requests"
+title:  "How to use proxy with CURL and HTTP requests from Java code"
 date:   2024-03-04
 categories: java curl http proxy
 ---
-
-# How to use proxy for CURL and for HTTP requests from Java code
 
 ## CURL is easy pizy :
 ```bash
