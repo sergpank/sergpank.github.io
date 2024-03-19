@@ -53,10 +53,10 @@ To make it look and feel slightly better I use the following configuration:
 And first of all you need to install Tmux Plugin Manager TPM - https://github.com/tmux-plugins/tpm
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
-In TPM repository all all the necessary instructions to intall and remove plugins.
-But all you need to know is that plugins are intalled by typing PrefiX + I in TMUX.
+In TPM repository are all the necessary instructions to install and remove plugins.
+But all you need to know is that plugins are installed by typing PrefiX + I in TMUX.
 
-TMIX configuration is specifed in ~/.config/tmux/tmux.conf
+TMIX configuration is specifed in ~/.config/tmux/tmux.conf :
 
 # Enable 24-bit color mode
 set-option -sa terminal-overrides ",xterm*:Tc"
@@ -82,5 +82,5 @@ set -g @plugin 'dreamsofcode-io/catppuccin-tmux'
 run '~/.tmux/plugins/tpm/tpm'
 ```
 
-All these settings I have borrowed from one awesome guy on youtube : https://www.youtube.com/watch?v=DzNmUNvnB04
+All these settings I have borrowed from one awesome guy on youtube : https://www.youtube.com/watch?v=DzNmUNvnB04  
 Thanks, friend, from sharing your experience.
