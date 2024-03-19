@@ -93,5 +93,6 @@ set -g @plugin 'dreamsofcode-io/catppuccin-tmux'
 run '~/.tmux/plugins/tpm/tpm'
 ```
 
-All these settings I have borrowed from one awesome guy on youtube : https://www.youtube.com/watch?v=DzNmUNvnB04  
-Thanks, friend, from sharing your experience.
+All these settings I have borrowed from one awesome guy on youtube :  
+<https://www.youtube.com/watch?v=DzNmUNvnB04/>  
+Thanks, friend, for sharing your experience.
