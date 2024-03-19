@@ -54,6 +54,9 @@ PX + x               --- close current panel
 3. go to target window
 4. PX + :join-pane
 5. PX + space    # --- to switch layout if necessary
+
+PX + esc + 1   --- make all panes even vertical
+PX + esc + 2   --- make all panes even horizontal
 ```
 
 To make it look and feel slightly better I use the following configuration:
