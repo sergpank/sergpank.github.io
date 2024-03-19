@@ -23,7 +23,7 @@ TMUX
 All commands start with prefix [PX] - default prefix is [ ctrl+B ]
 
 tmux attach                   --- attach to latest session
-tmux attach -n <session name> --- attach to session by name
+tmux attach -t <session name> --- attach to session by name
 tmux new -s <session name>    --- create new session
 tmux ls                       --- show sessions list
 
@@ -32,6 +32,7 @@ PX + ?               --- show all keybindigs
 PX + s               --- show all sessions
 PX + w               --- preview all sessions
 PX + ( )             --- move between sessions
+PX + $               --- rename session
 PX + d               --- exit session
 
 PX + c               --- create new window
@@ -46,6 +47,13 @@ PX + { }             --- switch panels
 PX + q               --- show panel number , and optional go to this panel if hit number
 PX + !               --- close all other panels
 PX + x               --- close current panel
+
+# how to merge windows into panel:
+1. go to source window
+2. PX + m
+3. go to target window
+4. PX + :join-pane
+5. PX + space    # --- to switch layout if necessary
 ```
 
 To make it look and feel slightly better I use the following configuration:
