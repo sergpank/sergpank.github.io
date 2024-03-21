@@ -10,4 +10,4 @@ My name is Sergey Panko and I am Java Developer.
 
 This is my cozy attic where I keep siple and helpful recipes.
 
-If you would like to contact me: `goto` [linkedIN](https://www.linkedin.com/in/sergpank/) `||` write directy on email.
+If you would like to contact me: `goto` [linkedIN](https://www.linkedin.com/in/sergpank/) `||` write directy on [email](mailto:sergpank@gmail.com).
