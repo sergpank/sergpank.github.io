@@ -22,8 +22,13 @@ TMUX
 
 All commands start with prefix [PX] - default prefix is [ ctrl+B ]
 
-tmux attach                   --- attach to latest session
-tmux attach -t <session name> --- attach to session by name
+tmux a
+tmux att
+tmux attach
+tmux attach-session           --- attach to latest session
+tmux a -t <session name>      --- attach to session by name
+tmux new
+tmux new-seesion
 tmux new -s <session name>    --- create new session
 tmux ls                       --- show sessions list
 
@@ -55,8 +60,8 @@ PX + x               --- close current panel
 4. PX + :join-pane
 5. PX + space    # --- to switch layout if necessary
 
-PX + esc + 1   --- make all panes even vertical
-PX + esc + 2   --- make all panes even horizontal
+PX + esc + 1   --- make all panes even and split vertical
+PX + esc + 2   --- make all panes even and split horizontal
 ```
 
 To make it look and feel slightly better I use the following configuration:
@@ -96,3 +101,6 @@ run '~/.tmux/plugins/tpm/tpm'
 All these settings I have borrowed from one awesome guy on youtube :  
 <https://www.youtube.com/watch?v=DzNmUNvnB04/>  
 Thanks, friend, for sharing your experience.
+
+A very nice and short cheatsheet from pluralsight - <https://www.pluralsight.com/resources/blog/cloud/tmux-cheat-sheet/>
+
