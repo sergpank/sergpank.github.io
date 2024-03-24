@@ -11,3 +11,4 @@ categories: keyboard
 Толщина плейта - 1.5мм
 
 ![size diagram](/img/keycap-size-diagram.png)
+![mx switch size](/img/MXswitches3.svg)
