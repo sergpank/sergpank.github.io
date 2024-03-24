@@ -12,3 +12,4 @@ categories: keyboard
 
 ![size diagram](/img/keycap-size-diagram.png)
 ![mx switch size](/img/MXswitches3.svg)
+![xda keycap size](/img/xda.webp)
