@@ -68,3 +68,12 @@ public class TestIP {
     }
 }
 ```
+
+## And if you are using AppacheHttpClient you need to make it use system properties:
+```java
+return HttpClientBuilder
+  .create()
+  .useSystemProperties()
+  ...
+  .build();
+```
