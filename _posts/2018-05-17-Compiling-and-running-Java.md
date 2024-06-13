@@ -5,7 +5,7 @@ date: 2018-05-17
 ---  
 
 # We have 3 Java files :
-1. com.main.Main.java :
+1. com.main.Main.java :  
 ```java
 package com.main;
 
@@ -21,7 +21,7 @@ public class Main {
 }
 ```
 
-2. com.foo.Foo.java :
+2. com.foo.Foo.java :  
 ```java
 package com.foo;
 
@@ -34,7 +34,7 @@ public class Foo
 }
 ```
 
-3. com.bar.Bar.java :
+3. com.bar.Bar.java :  
 ```java
 package com.bar;
 
@@ -47,7 +47,7 @@ public class Bar
 }
 ```
 
-# Copile:
+# Copile:  
 ```bash
 # javac [options] [source files]:
 javac -d <outpud-dir> <file-name>.java 
@@ -74,7 +74,7 @@ $ javac -d target/classes @sources.txt
 > javac -d target/classes @sources.txt
 ```
 
-# Launch:
+# Launch:  
 ```bash
 # java [options] class [args]
 java -DmyProp=myValue MyClass x 1
