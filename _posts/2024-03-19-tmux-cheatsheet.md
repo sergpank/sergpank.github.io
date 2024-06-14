@@ -49,6 +49,9 @@ PX + %               --- split panel horizontally
 PX + "               --- split panel vertically
 PX + ← ↑ → ↓         --- navigate between panels
 PX + { }             --- switch panels
+
+PX + z               --- zoom panel in/out (enter exit fullscreen)
+
 PX + q               --- show panel number , and optional go to this panel if hit number
 PX + !               --- close all other panels
 PX + x               --- close current panel
