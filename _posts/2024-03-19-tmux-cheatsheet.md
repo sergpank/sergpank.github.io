@@ -51,6 +51,7 @@ PX + ← ↑ → ↓         --- navigate between panels
 PX + { }             --- switch panels
 
 PX + z               --- zoom panel in/out (enter exit fullscreen)
+PX + [               --- enter scroll mode (q - to exit scroll mode)
 
 PX + q               --- show panel number , and optional go to this panel if hit number
 PX + !               --- close all other panels
