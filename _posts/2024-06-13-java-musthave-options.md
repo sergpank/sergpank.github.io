@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three must have options for any java backed app
+title: Three must have options for any java backend app
 date: 2024-06-13
 ---  
 
