@@ -130,5 +130,11 @@ collection: news
      * 30.10.2023 - 31 заблокированных сайта - https://kp.md ; https://aif.md ; https://orizont.tv ; https://itv.md ; https://prime.md ; https://publika.md ; https://canal2.md ; https://canal3.md ; https://primul.md ; https://rtr.md ; https://a-tv.md ; https://cenzura.md ; https://tv6.md ; https://orheitv.md ; https://vedomosti.md ; https://enews.md ; https://regtrends.com ; https://kp.ru ; https://tass.ru ; https://lenta.ru ; https://pravda.ru ; https://www.aif.ru ; https://www.rg.ru ; https://www.interfax.ru ; https://mk.ru ; https://www.iz.ru ; https://riafan.ru ; https://regnum.ru ; https://pnp.ru ; https://radiosputnik.ru ; https://rline.tv
      * Как и скан приказа от 30 октября 2023 г :
      * ![sib-ordit-74](/img/sib-ordin-74.jpg)
-1. **05-июл-2024** - Гражданам страны, прилетающим из Армении (т.е. России), запрещен ввоз более 3000 евро, для этого авиакомпания Flyone наделена фискальнымии полицейскими функциями и производит фильтрацию граждан в Аэропорту Еревана.
+1. **05-июл-2024** - Гражданам страны, прилетающим из Армении (т.е. транзитом из России), запрещен ввоз более 3000 евро, для этого авиакомпания Flyone наделена фискальнымии и полицейскими функциями, и производит фильтрацию граждан в Аэропорту Еревана.
   * <https://md.kp.media/daily/27603/4954910/>
+1. **09-июл-2024** - Депутат правящей партии Молдовы разделил жителей страны на граждан и «население»
+  * <https://t.me/vekabsurda/5886/>
+1. **09-июл-2024** - Один из руководителей при Агентстве материальных резервов Молдовы лишился своей должности из-за просмотра российских телепередач
+  * <https://t.me/tokanamd/24809/>
+1. **09-июл-2024** - В Молдове обяжут новострои подключать к центральному отоплению
+  * <https://t.me/KpMoldova/90011/>
