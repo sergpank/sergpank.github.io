@@ -80,8 +80,12 @@ $ javac -d target/classes @sources.txt
 # java [options] class [args]
 java -DmyProp=myValue MyClass x 1
 
-# In out case we have to cd to "target/classes" dir and execute the following command:
+# In our case we have to cd to "target/classes" dir and execute the following command:
 java com.main.Main
 > FOO
 > BAR
+
+# If you are using jar depencies add ClassPath parameter starting with cur dir .:jar1:jar2:...
+java -cp .:dependency.jar com.main.Main
+...
 ```
