@@ -89,3 +89,5 @@ java com.main.Main
 java -cp .:dependency.jar com.main.Main
 ...
 ```
+
+Some nice tutrial - <https://dev.java/learn/jvm/tools/core/jar/>
