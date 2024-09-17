@@ -2,7 +2,7 @@
 layout: post
 title:  "Toy Plane"
 date:   2024-09-17 13:41:00 +0200
-categories: toy invetion plane
+categories: toy invention plane
 ---
 
 В дестве у меня была такая потрасающая игрушка - самолет на жесткой штанге:  
