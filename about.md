@@ -8,6 +8,6 @@ permalink: /about/
 
 My name is Sergey Panko and I am Java Developer.
 
-This is my cozy attic where I keep siple and helpful recipes.
+This is my cozy attic where I keep simple and helpful recipes.
 
 If you would like to contact me: `goto` [linkedIN](https://www.linkedin.com/in/sergpank/) `||` write directy to my [email](mailto:sergpank@gmail.com).
