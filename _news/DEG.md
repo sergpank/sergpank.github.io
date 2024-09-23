@@ -6,4 +6,9 @@ category: deg
 collection: news
 ---
 
-Запретность 1920-х годов - <https://www.youtube.com/shorts/qjPuM5-lnc4/>
+Запретность 1920-х годов - <https://www.youtube.com/shorts/qjPuM5-lnc4/>  
+Что такое советская власть - <https://www.youtube.com/shorts/7CfcuIJ5IUU/>  
+Что не так с коммунистической партией - <https://www.youtube.com/shorts/k40Xny7nw-w/>  
+Что не так с коммунизмом - <https://www.youtube.com/shorts/FGlZ73kxSVk/>  
+Кто пришел к власти в 1917 году в России - <https://www.youtube.com/shorts/wVaflLTzieg/>  
+Кто стоит за ворами в законе - <https://www.youtube.com/shorts/AS73-ZAsEAY/>  
