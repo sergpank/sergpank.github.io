@@ -140,5 +140,14 @@ collection: news
   * <https://t.me/KpMoldova/90011/>
 1. **12-июл-2024** - Гражданина задержали за плакат "Посигналь если ты против PAS"
   * <https://t.me/KpMoldova/90236/>
+1. **-06-сен-2024** - Приостановлена работа системы денежных переводов "Золотая Корона"
+  * <https://locals.md/2024/zolotaya-korona-vse/?ysclid=m1ja24e4y1768112060/>
+  * <https://www.rbc.ru/finances/06/09/2024/66daceb49a79470c1ad38e11/>
+  * <https://point.md/ru/novosti/politika/grosu-o-blokirovke-zolotoi-korony-eto-chast-deistvii-po-zashchite-gosudarstva/>
 1. **12-сен-2024** - Захарова прокоментировала ситуауцию в Молдове словами "Ну что, Мая, подгорает?"
   * <https://www.youtube.com/watch?v=YEhMme3oqLI/>
+1. **26-сен-2024** - Заблокирован сайт РИА новости
+  * <https://point.md/ru/novosti/obschestvo/po-zaprosu-sib-v-moldove-zablokirovany-eshche-7-saitov/>
+  * <https://deschide.md/ru/russian_news/social_ru/157260/Еще-семь-пропагандистских-сайтов-заблокированы-в-Республике-Молдова.htm/>
+  * <https://ru.krymr.com/a/news-moldova-zablokirovali-portal-rossiyskogo-parlamenta-kryma-ria-novosti-krym/33136115.html/>
+  * <https://ria.ru/20240926/moldaviya-1974755800.html/>
