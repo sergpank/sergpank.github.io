@@ -151,3 +151,5 @@ collection: news
   * <https://deschide.md/ru/russian_news/social_ru/157260/Еще-семь-пропагандистских-сайтов-заблокированы-в-Республике-Молдова.htm/>
   * <https://ru.krymr.com/a/news-moldova-zablokirovali-portal-rossiyskogo-parlamenta-kryma-ria-novosti-krym/33136115.html/>
   * <https://ria.ru/20240926/moldaviya-1974755800.html/>
+1. **30-сен-2024** - Частично закрашен, а затем закрыт рекламой референдума мурал посвященный олимпийцам
+  * <https://locals.md/2024/skandal-vokrug-isporchennogo-murala-olimpijskaya-mecta/>
