@@ -153,3 +153,10 @@ collection: news
   * <https://ria.ru/20240926/moldaviya-1974755800.html/>
 1. **30-сен-2024** - Частично закрашен, а затем закрыт рекламой референдума мурал посвященный олимпийцам
   * <https://locals.md/2024/skandal-vokrug-isporchennogo-murala-olimpijskaya-mecta/>
+1. **3-окт-2024** - Заблокированы Яндекс, Рутуб и Дзен
+  * <https://point.md/ru/novosti/obschestvo/v-moldove-po-zaprosu-sib-zablokirovany-saity-yandex-rutube-i-dzen/>
+  * <https://habr.com/ru/news/848034/>
+  * <https://bes.media/news/yandeks-rutube-i-dzen-zablokirovali-v-moldove/>
+  * <https://rupor.md/yandeks-bolshe-ne-budet-dostupen-v-moldove-blokirovka-po-zaprosu-sib/>
+  * <https://www.rbc.ru/technology_and_media/03/10/2024/66feb2679a7947d9365d3ecf/>
+  * <https://www.eurointegration.com.ua/rus/news/2024/10/3/7195496/>
