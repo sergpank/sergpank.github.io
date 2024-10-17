@@ -44,6 +44,6 @@ collections:
   hibernate:
     permalink: "/:collection/:title"
     output: true
-  # news:
-    # permalink: "/:collection/:title"
-    # output: true
+  news:
+    permalink: "/:collection/:title"
+    output: true
