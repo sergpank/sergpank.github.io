@@ -171,3 +171,7 @@ collection: news
   * <https://moldova-news.com/world/2024/10/23/62911.html/>
 1. **30-окт-2024** - Полиция рассылает гражданам СМС с угрозами.
   * ![politia md](/img/politiamd.jpeg)
+1. **31-окт-2024** - На кануне второга тура, пенсионеры получили от властей письма с обещанием помощи в размере 2300 леев после 1 ноября
+  * <https://point.md/ru/novosti/politika/dodon-sandu-o-pis-makh-pensioneram-eto-mozhno-schitat-pokupkoi-golosov/>
+  * <https://www.ipn.md/ru/edinovremennye-vyplaty-pensioneram-i-detyam-s-ogranichennymi-vozmozhnostyami-bud-7967_1108586.html/>
+  * <https://www.jurnal.md/ru/news/6e09a31234a378d8/ministerstvo-truda-razyasneniya-po-povodu-edinovremennoy-pomoshchi-v-razmere-2300-leev-dlya-pensionerov.html/>
