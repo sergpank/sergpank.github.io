@@ -175,3 +175,13 @@ collection: news
   * <https://point.md/ru/novosti/politika/dodon-sandu-o-pis-makh-pensioneram-eto-mozhno-schitat-pokupkoi-golosov/>
   * <https://www.ipn.md/ru/edinovremennye-vyplaty-pensioneram-i-detyam-s-ogranichennymi-vozmozhnostyami-bud-7967_1108586.html/>
   * <https://www.jurnal.md/ru/news/6e09a31234a378d8/ministerstvo-truda-razyasneniya-po-povodu-edinovremennoy-pomoshchi-v-razmere-2300-leev-dlya-pensionerov.html/>
+1. **3-ноя-2024** - Власти не пускают жителей Приднестровья на выборы, и обвиняют их в том что они пытаются проголосовать
+  * <https://t.me/wtfmoldova/51220/> - автомобили с приднестровскими номерами не мускают в Молдову, люди бросают автомобили и идут пешком
+  * <https://t.me/wtfmoldova/51225/> - Власти препятствуют жителям Приднестровья проголосовать на Правом берегу!
+- Адриан Доментюк
+  * <https://t.me/wtfmoldova/51227/> - ... движение по мосту Рыбница-Резина парализовано из-за того, что в потоке людей находится человек, который не сотрудничает с полицией и держит в руках подозрительную коробку ...
+  * <https://t.me/wtfmoldova/51249/> - но найти это человека с коробкой так и не удалось
+  * <https://t.me/wtfmoldova/51234/> - президент открыто заявляет что победить может только за счет голосов диаспоры
+  * <https://t.me/wtfmoldova/51261/> - избирательные участки в Варнице куда едут жители Приднестровья "заминированы"
+  * <https://t.me/wtfmoldova/51278/> - на участке для голосования в Москве закончились бюллетени
+  * <https://point.md/ru/novosti/politika/vlasti-moldovy-obvinili-rf-v-massirovannom-vmeshatel-stve-vo-vtoroi-tur-vyborov/>
