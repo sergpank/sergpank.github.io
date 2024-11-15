@@ -185,3 +185,9 @@ collection: news
   * <https://t.me/wtfmoldova/51261/> - избирательные участки в Варнице куда едут жители Приднестровья "заминированы"
   * <https://t.me/wtfmoldova/51278/> - на участке для голосования в Москве закончились бюллетени
   * <https://point.md/ru/novosti/politika/vlasti-moldovy-obvinili-rf-v-massirovannom-vmeshatel-stve-vo-vtoroi-tur-vyborov/>
+  * Как и на референдуме решающий голос остался за людьми которые здесь не живут, они же теперь все вернутся?
+  * Хотя кого я обманываю, за границей можно рисовать любую явку, всё равно это не возможно проверить
+  * ![President 2024](/img/President-2024.png)
+1. **11-ноя-2024** - Таможня за неделю собрала с граждан 737 миллионов леев
+  * <https://www.ipn.md/index.php/ru/sbory-tamozhennoy-sluzhby-na-proshloy-nedele-prevysili-737-millionov-leev-7966_1108925.html/>
+  * <https://point.md/ru/novosti/ekonomika/sbory-tamozhennoi-sluzhby-na-proshloi-nedele-prevysili-737-millionov-leev/>
