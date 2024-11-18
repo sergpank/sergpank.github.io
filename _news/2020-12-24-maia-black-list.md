@@ -191,3 +191,5 @@ collection: news
 1. **11-ноя-2024** - Таможня за неделю собрала с граждан 737 миллионов леев
   * <https://www.ipn.md/index.php/ru/sbory-tamozhennoy-sluzhby-na-proshloy-nedele-prevysili-737-millionov-leev-7966_1108925.html/>
   * <https://point.md/ru/novosti/ekonomika/sbory-tamozhennoi-sluzhby-na-proshloi-nedele-prevysili-737-millionov-leev/>
+1. **18-ноя-2024** - c 2018 по 2024 год число пользователей интернета в Молдове сократилось на 388 000 (с 1 840 000 до 1 452 000)
+  * <https://point.md/ru/novosti/obschestvo/kolichestvo-pol-zovatelei-moldavskogo-interneta-za-shest-let-sokratilos-na-21/>
