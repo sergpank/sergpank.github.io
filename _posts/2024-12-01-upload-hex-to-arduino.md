@@ -27,15 +27,26 @@ In my case there was a following command:
 -v \
 -V \
 -patmega32u4 \
--cavr109 "-P/dev/cu.usbmodem101" 
+-cavr109
+"-P/dev/cu.usbmodem101" 
 -b57600 \
--D "-Uflash:w:/private/var/folders/lw/g6b_rzbd1616b86pn1547p9w0000gn/T/arduino/sketches/EB6F26627ADC17C2831534A5E05EC8DB/barcode-boy.ino.hex:i"
+-D
+"-Uflash:w:/private/var/folders/lw/g6b_rzbd1616b86pn1547p9w0000gn/T/arduino/sketches/EB6F26627ADC17C2831534A5E05EC8DB/barcode-boy.ino.hex:i"
 ```
 
-I've has to replace path to hex.file after `-D` flag to `"-Uflash:w:/Users/spanko/Arduboy/Shadow-Runner/Shadow Runner.hex"`  
+I've has to replace path to hex.file after `-Uflash` flag to `"-Uflash:w:/Users/spanko/Arduboy/Shadow-Runner/Shadow Runner.hex"`  
 And hit `Enter`:  
 ```bash
-$ "/Users/spanko/Library/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/bin/avrdude" "-C/Users/spanko/Library/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/etc/avrdude.conf" -v -V -patmega32u4 -cavr109 "-P/dev/cu.usbmodem101" -b57600 -D "-Uflash:w:/Users/spanko/Arduboy/Shadow-Runner/Shadow Runner.hex"
+$ "/Users/spanko/Library/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/bin/avrdude" \
+"-C/Users/spanko/Library/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/etc/avrdude.conf" \
+-v \
+-V \
+-patmega32u4 \
+-cavr109 \
+"-P/dev/cu.usbmodem101" \
+-b57600 \
+-D \
+"-Uflash:w:/Users/spanko/Arduboy/Shadow-Runner/Shadow Runner.hex"
 
 avrdude: Version 6.3-20190619
          Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
@@ -114,5 +125,5 @@ avrdude: safemode: Fuses OK (E:CB, H:D8, L:FF)
 avrdude done.  Thank you.
 ```
 
-That's all folks!
+That's all folks!  
 Thank a lot for advice to Arduino forum : <https://forum.arduino.cc/t/the-simplest-way-to-upload-a-compiled-hex-file-without-the-ide/401996/>
