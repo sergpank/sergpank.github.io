@@ -193,3 +193,5 @@ collection: news
   * <https://point.md/ru/novosti/ekonomika/sbory-tamozhennoi-sluzhby-na-proshloi-nedele-prevysili-737-millionov-leev/>
 1. **18-ноя-2024** - c 2018 по 2024 год число пользователей интернета в Молдове сократилось на 388 000 (с 1 840 000 до 1 452 000)
   * <https://point.md/ru/novosti/obschestvo/kolichestvo-pol-zovatelei-moldavskogo-interneta-za-shest-let-sokratilos-na-21/>
+1. **20-дек-2024** - Объяснила отказ от переговоров с Украиной на счет транзита газа, выдумкой что так как Молдова занимает всего 5% транзита через Украину то и предмета дискусси нет. Хотя раньше заявлялось что молдова покупает газ на международных биржах и достигла энегетической независимости от газпрома.
+  * <https://point.md/ru/novosti/politika/sandu-o-tom-pochemu-ne-obsuzhdali-tranzit-gaza-s-ukrainoi-nasha-dolia-v-nem-vsego-5/>
