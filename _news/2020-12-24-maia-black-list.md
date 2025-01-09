@@ -195,3 +195,5 @@ collection: news
   * <https://point.md/ru/novosti/obschestvo/kolichestvo-pol-zovatelei-moldavskogo-interneta-za-shest-let-sokratilos-na-21/>
 1. **20-дек-2024** - Объяснила отказ от переговоров с Украиной на счет транзита газа, выдумкой что так как Молдова занимает всего 5% транзита через Украину то и предмета дискусси нет. Хотя раньше заявлялось что молдова покупает газ на международных биржах и достигла энегетической независимости от газпрома.
   * <https://point.md/ru/novosti/politika/sandu-o-tom-pochemu-ne-obsuzhdali-tranzit-gaza-s-ukrainoi-nasha-dolia-v-nem-vsego-5/>
+1. **09-янв-2025** - Ввиду отключения газа в Приднестровье начали гибнуть люди пытающиеся согреться самодельными печками
+  * <https://ria.ru/20250109/pridnestrove-1992905039.html/>
