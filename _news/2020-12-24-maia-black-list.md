@@ -197,3 +197,5 @@ collection: news
   * <https://point.md/ru/novosti/politika/sandu-o-tom-pochemu-ne-obsuzhdali-tranzit-gaza-s-ukrainoi-nasha-dolia-v-nem-vsego-5/>
 1. **09-янв-2025** - Ввиду отключения газа в Приднестровье начали гибнуть люди пытающиеся согреться самодельными печками
   * <https://ria.ru/20250109/pridnestrove-1992905039.html/>
+1. **16-янв-2025** - МИД ПМР обвинил Молдову в нежелании оказать помощь Приднестровью
+  * <https://ria.ru/20250116/pmr-1994050487.html/>
