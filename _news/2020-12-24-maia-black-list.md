@@ -201,3 +201,6 @@ collection: news
   * <https://ria.ru/20250116/pmr-1994050487.html/>
 1. **20-янв-2025** - Чудеса софистики и политической эквилибристики - молдовагаз разворовал деньги собранные с потребителей - но отдавать их должны простые граждане - потому что Россия хочет чтобы мы платили больше - и только правительство хочет чтобы платили меньше
   * <https://point.md/ru/novosti/politika/alaiba-pravitel-stvo-zashchishchaet-vsekh-grazhdan-vkliuchaia-tekh-kto-simpatiziruet-rossii/>
+1. **21-янв-2025** - Energocom - нет законной возможности поставлять газ в Приднестровье
+  * <https://point.md/ru/novosti/ekonomika/slusar-na-dannyi-moment-net-zakonnoi-vozmozhnosti-postavliat-gaz-v-pridnestrov-e/>
+  * При том что там живет 362000 граждан РМ - <https://point.md/ru/novosti/obschestvo/v-pridnestrovskom-regione-prozhivaet-bolee-362-000-grazhdan-rm/>
