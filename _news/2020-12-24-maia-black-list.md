@@ -204,3 +204,5 @@ collection: news
 1. **21-янв-2025** - Energocom - нет законной возможности поставлять газ в Приднестровье
   * <https://point.md/ru/novosti/ekonomika/slusar-na-dannyi-moment-net-zakonnoi-vozmozhnosti-postavliat-gaz-v-pridnestrov-e/>
   * При том что там живет 362000 граждан РМ - <https://point.md/ru/novosti/obschestvo/v-pridnestrovskom-regione-prozhivaet-bolee-362-000-grazhdan-rm/>
+1. **22-янв-2025** - Молдова пытается хоть что-то заработать на транзите газа в ПМР, в идеале заставить Приднестровье отказаться от присутствия российских миротворцев
+  * <https://ria.ru/20250122/pridnestrove-1994809784.html/>
