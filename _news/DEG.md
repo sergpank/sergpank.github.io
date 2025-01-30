@@ -12,3 +12,4 @@ collection: news
 Что не так с коммунизмом - <https://www.youtube.com/shorts/FGlZ73kxSVk/>  
 Кто пришел к власти в 1917 году в России - <https://www.youtube.com/shorts/wVaflLTzieg/>  
 Кто стоит за ворами в законе - <https://www.youtube.com/shorts/AS73-ZAsEAY/>  
+Пропаганда всегда расчитана на детей - <https://www.youtube.com/shorts/mrdx5K5diVg/>
