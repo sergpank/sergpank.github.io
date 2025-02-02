@@ -14,3 +14,4 @@ collection: news
 - Кто стоит за ворами в законе - <https://www.youtube.com/shorts/AS73-ZAsEAY/>  
 - Пропаганда всегда расчитана на детей - <https://www.youtube.com/shorts/mrdx5K5diVg/>  
 - Что нужно знать о Дзержинском - <https://www.youtube.com/shorts/covSgl9MSBA/>
+- Что нужно знать о человеческих суперорганизмах - <https://www.youtube.com/shorts/wFpdmsBBFd4/>
