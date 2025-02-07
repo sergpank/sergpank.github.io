@@ -210,3 +210,5 @@ collection: news
   * <https://point.md/ru/novosti/politika/rechan-reshenie-gazovogo-krizisa-v-pridnestrov-e-zavisit-ot-vyvoda-rossiiskikh-voisk/>
 1. **07-фев-2025** - Москва договорилась с Венгрией о закупке венгерскими компаниями газа для Приднестровья на европейских газовых биржах. Оплачивать поставки газа в Тирасполь будет Россия. Эта схема согласована с Евросоюзом: Будапешт добился в Брюсселе гарантий, что она не попадет под санкции против России. Однако Молдова не дает разрешения на прокачку газа по своей территории в Приднестровье.
   * <https://ria.ru/20250206/pridnestrove-1997522873.html/>
+1. **07-фев-2025** - Санду выдвинула новые условия - поднимите в ПМР тарифы на газ и свет и освободите политзаключенных - тогда получите гуманитарную помощь от ЕС
+  * <https://point.md/ru/novosti/politika/sandu-pomoch-zhiteliam-levoberezh-ia-u-kotorykh-pochti-mesiats-ne-bylo-tepla-eto-estestvenno/>
