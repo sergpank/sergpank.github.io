@@ -219,3 +219,5 @@ collection: news
   * <https://point.md/ru/novosti/obschestvo/muravskii-prizval-vlasti-iz-iat-uchebnik-istorii-iz-obrashcheniia/>
 1. **11-фев-2025** - Жена Гросу теперь старший консультант отдела менеджмента в общем образовании в составе Главного управления политики в области общего образования
   * <https://point.md/ru/novosti/politika/supruga-igoria-grosu-vyigrala-konkurs-na-dolzhnost-konsul-tanta-pri-upravlenii-obshchego-obrazovaniia/>
+1. **13-фев-2025** - Закрыт Российский Центр Науки и Культуры
+  * <https://point.md/ru/novosti/politika/posol-stvo-rf-o-zakrytii-rtsnk-vlasti-moldovy-povyshaiut-napriazhennost/>
