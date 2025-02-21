@@ -221,3 +221,11 @@ collection: news
   * <https://point.md/ru/novosti/politika/supruga-igoria-grosu-vyigrala-konkurs-na-dolzhnost-konsul-tanta-pri-upravlenii-obshchego-obrazovaniia/>
 1. **13-фев-2025** - Закрыт Российский Центр Науки и Культуры
   * <https://point.md/ru/novosti/politika/posol-stvo-rf-o-zakrytii-rtsnk-vlasti-moldovy-povyshaiut-napriazhennost/>
+1. **20-фев-2025** - Высшие должностные должности теперь отдают румынам
+  * <https://t.me/mr_buimistr/1256/>
+1. **21-фев-2025** - Строительство вместо стадиона, здания посольства США признано представляющим национальные интересы
+  * <https://point.md/ru/novosti/obschestvo/stroitel-stvo-zdaniia-posol-stva-ssha-priznano-predstavliaiushchim-natsional-nye-interesy/>
+1. **21-фев-2025** - Вероника Драгалин ушла с поста Антикоррупционной прокуратуры после шантажа компрометирующим видео
+  * <https://point.md/ru/novosti/politika/dodon-dragalin-shantazhirovali-nekimi-video-no-u-menia-net-k-nei-zhalosti/>
+1. **21-фев-2025** - Санду и PAS ведут политическую деятельность на деньги USAID
+  * <https://www.facebook.com/share/p/1DPLktMED2/>
