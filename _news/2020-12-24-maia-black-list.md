@@ -231,3 +231,5 @@ collection: news
   * <https://point.md/ru/novosti/politika/dodon-dragalin-shantazhirovali-nekimi-video-no-u-menia-net-k-nei-zhalosti/>
 1. **21-фев-2025** - Санду и PAS ведут политическую деятельность на деньги USAID
   * <https://www.facebook.com/share/p/1DPLktMED2/>
+1. **03-мар-2025** - Израильсвкие музыканты исполнили на сцене филармонии "Катюшу", за что потом принесли извинения, так как это "произведение из советского военного репертуара"
+  * <https://point.md/ru/novosti/obschestvo/na-stsene-dvortsa-respubliki-ispolnili-katiushu-organizatory-prinesli-izvineniia/>
