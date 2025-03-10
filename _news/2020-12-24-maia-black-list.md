@@ -233,3 +233,5 @@ collection: news
   * <https://www.facebook.com/share/p/1DPLktMED2/>
 1. **03-мар-2025** - Израильсвкие музыканты исполнили на сцене филармонии "Катюшу", за что потом принесли извинения, так как это "произведение из советского военного репертуара"
   * <https://point.md/ru/novosti/obschestvo/na-stsene-dvortsa-respubliki-ispolnili-katiushu-organizatory-prinesli-izvineniia/>
+1. **10-амр-2025** - Фраза "молдавский народ" вызывает у руман недовольство
+  * <https://point.md/ru/novosti/v-mire/chleny-partii-aur-podderzhivaiushchei-dzhordzhesku-obidelis-na-nego-za-frazu-moldavskii-narod/>
