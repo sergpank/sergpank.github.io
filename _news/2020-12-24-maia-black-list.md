@@ -231,7 +231,10 @@ collection: news
   * <https://point.md/ru/novosti/politika/dodon-dragalin-shantazhirovali-nekimi-video-no-u-menia-net-k-nei-zhalosti/>
 1. **21-фев-2025** - Санду и PAS ведут политическую деятельность на деньги USAID
   * <https://www.facebook.com/share/p/1DPLktMED2/>
-1. **03-мар-2025** - Израильсвкие музыканты исполнили на сцене филармонии "Катюшу", за что потом принесли извинения, так как это "произведение из советского военного репертуара"
+1. **03-мар-2025** - Израильские музыканты исполнили на сцене филармонии "Катюшу", за что потом принесли извинения, так как это "произведение из советского военного репертуара"
   * <https://point.md/ru/novosti/obschestvo/na-stsene-dvortsa-respubliki-ispolnili-katiushu-organizatory-prinesli-izvineniia/>
-1. **10-амр-2025** - Фраза "молдавский народ" вызывает у руман недовольство
+1. **10-мар-2025** - Фраза "молдавский народ" вызывает у руман недовольство
   * <https://point.md/ru/novosti/v-mire/chleny-partii-aur-podderzhivaiushchei-dzhordzhesku-obidelis-na-nego-za-frazu-moldavskii-narod/>
+1. **20-мар-2025** - Лидера партии «Демократия дома» Василе Костюка лишили прав и автомобиля, он известен заявлением что глава Главного Инспектората Полиции Виорел Чернэуцану построил в Колонице «дом стоимостью 30 миллионов леев»
+  * <https://point.md/ru/novosti/politika/kostiuk-patrul-nye-soobshchili-mne-o-priostanovke-deistviia-prav-eto-terror/>
+  * <https://unimedia.info/ro/news/f2632b5c6980d8fc/video-vasile-costiuc-oprit-in-trafic-de-politisti-si-anuntat-ca-i-a-fost-suspendat-permisul-sa-va-ia-toti-dracii-pe-toti-ministrii-pe-maia-sandu-si-pe-toate-rasurile-care-au-venit-la-guvernare.html/>
