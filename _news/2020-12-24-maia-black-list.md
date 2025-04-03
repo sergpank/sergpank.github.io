@@ -248,10 +248,13 @@ collection: news
     * <https://point.md/ru/novosti/politika/bashkan-evgeniia-gutsul-arestovana-na-20-dnei/>
   * *3 апр* - ходатайство об изменении меры пресечения отклонено 
     * <https://point.md/ru/novosti/politika/bashkan-gagauzii-evgeniia-gutsul-ostanetsia-pod-arestom/>
+    * <https://point.md/ru/novosti/politika/popshoi-delo-gutsul-ne-iavliaetsia-politicheskim/>
 1. **03-апр-2025**
   * [Санду: Чтобы повышать пенсии, необходимо построить сильную экономику](https://point.md/ru/novosti/politika/sandu-chtoby-povyshat-pensii-neobkhodimo-postroit-sil-nuiu-ekonomiku/)
     * [Санду: До восхождения на трон жаловалась низкую пенсию своей матери](https://t.me/wtfmoldova/10773)
   * [Попшой: Молдова очистила систему, и у нас остались только умеренно коррумпированные судьи](https://point.md/ru/novosti/politika/popshoi-moldova-ochistila-sistemu-i-u-nas-ostalis-tol-ko-umerenno-korrumpirovannye-sud-i/)
+  * [Попшой: Переизбрание Санду доказывает, что молдавские власти все делают правильно
+](https://point.md/ru/novosti/politika/popshoi-pereizbranie-sandu-dokazyvaet-chto-moldavskie-vlasti-vse-delaiut-pravil-no/)
   * [Среди стран СНГ для Молдовы введены самые высокие пошлины со стороны США
 ](https://point.md/ru/novosti/ekonomika/sredi-stran-sng-dlia-moldovy-vvedeny-samye-vysokie-poshliny-so-storony-ssha/)
     * Молдова — 31 %
@@ -263,3 +266,4 @@ collection: news
     * Туркменистан — 10 %
     * Киргизия — 10 %
     * Таджикистан — 10 %
+    
