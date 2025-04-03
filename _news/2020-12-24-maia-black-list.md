@@ -238,6 +238,16 @@ collection: news
 1. **20-мар-2025** - Лидера партии «Демократия дома» Василе Костюка лишили прав и автомобиля, он известен заявлением что глава Главного Инспектората Полиции Виорел Чернэуцану построил в Колонице «дом стоимостью 30 миллионов леев»
   * <https://point.md/ru/novosti/politika/kostiuk-patrul-nye-soobshchili-mne-o-priostanovke-deistviia-prav-eto-terror/>
   * <https://unimedia.info/ro/news/f2632b5c6980d8fc/video-vasile-costiuc-oprit-in-trafic-de-politisti-si-anuntat-ca-i-a-fost-suspendat-permisul-sa-va-ia-toti-dracii-pe-toti-ministrii-pe-maia-sandu-si-pe-toate-rasurile-care-au-venit-la-guvernare.html/>
+1. **25-мар-2025** - Башкан Гагаузии Евгения Гуцул арестована
+  * 25 мар - задержана в Аэропорту на 72 часа
+    * <https://www.dw.com/ru/glava-gagauzii-gucul-zaderzana-v-aeroportu-kisineva/a-72038263/>
+    * <https://www.aa.com.tr/ru/мир/в-молдове-на-72-часа-взяли-под-стражу-главу-ато-гагаузия-евгению-гуцул/3520098/>
+    * <https://gagauzinfo.md/news/politics/glavu-gagauzii-zaderzhali-na-72-chasa-pri-popitke-viletet-iz-strani/>
+    * <https://ria.ru/20250325/moldaviya-2007316723.html/>
+  * *28 мар* - арестована на 20 дней
+    * <https://point.md/ru/novosti/politika/bashkan-evgeniia-gutsul-arestovana-na-20-dnei/>
+  * *3 апр* - ходатайство об изменении меры пресечения отклонено 
+    * <https://point.md/ru/novosti/politika/bashkan-gagauzii-evgeniia-gutsul-ostanetsia-pod-arestom/>
 1. **03-апр-2025**
   * [Санду: Чтобы повышать пенсии, необходимо построить сильную экономику](https://point.md/ru/novosti/politika/sandu-chtoby-povyshat-pensii-neobkhodimo-postroit-sil-nuiu-ekonomiku/)
     * [Санду: До восхождения на трон жаловалась низкую пенсию своей матери](https://t.me/wtfmoldova/10773)
