@@ -238,3 +238,18 @@ collection: news
 1. **20-мар-2025** - Лидера партии «Демократия дома» Василе Костюка лишили прав и автомобиля, он известен заявлением что глава Главного Инспектората Полиции Виорел Чернэуцану построил в Колонице «дом стоимостью 30 миллионов леев»
   * <https://point.md/ru/novosti/politika/kostiuk-patrul-nye-soobshchili-mne-o-priostanovke-deistviia-prav-eto-terror/>
   * <https://unimedia.info/ro/news/f2632b5c6980d8fc/video-vasile-costiuc-oprit-in-trafic-de-politisti-si-anuntat-ca-i-a-fost-suspendat-permisul-sa-va-ia-toti-dracii-pe-toti-ministrii-pe-maia-sandu-si-pe-toate-rasurile-care-au-venit-la-guvernare.html/>
+1. **03-апр-2025**
+  * [Санду: Чтобы повышать пенсии, необходимо построить сильную экономику](https://point.md/ru/novosti/politika/sandu-chtoby-povyshat-pensii-neobkhodimo-postroit-sil-nuiu-ekonomiku/)
+    * [Санду: До восхождения на трон жаловалась низкую пенсию своей матери](https://t.me/wtfmoldova/10773)
+  * [Попшой: Молдова очистила систему, и у нас остались только умеренно коррумпированные судьи](https://point.md/ru/novosti/politika/popshoi-moldova-ochistila-sistemu-i-u-nas-ostalis-tol-ko-umerenno-korrumpirovannye-sud-i/)
+  * [Среди стран СНГ для Молдовы введены самые высокие пошлины со стороны США
+](https://point.md/ru/novosti/ekonomika/sredi-stran-sng-dlia-moldovy-vvedeny-samye-vysokie-poshliny-so-storony-ssha/)
+    * Молдова — 31 %
+    * Казахстан — 27 %
+    * Армения — 10 %
+    * Азербайджан — 10 %
+    * Грузия — 10 %
+    * Узбекистан — 10 %
+    * Туркменистан — 10 %
+    * Киргизия — 10 %
+    * Таджикистан — 10 %
