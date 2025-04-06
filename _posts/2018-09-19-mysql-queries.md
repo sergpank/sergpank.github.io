@@ -78,3 +78,22 @@ order by connections_nr desc;
 -- for quick view
 show processlist;
 ```
+## "Plot" bar-graph for query data
+```sql
+mysql> SELECT city, population, REPEAT('x', population/200000) FROM `us` ORDER BY population DESC;
++----------------------------+------------+-------------------------------------------+
+| city                       | population | REPEAT('x', population/200000)            |
++----------------------------+------------+-------------------------------------------+
+| New York                   |    8107916 | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+| Los Angeles                |    3877129 | xxxxxxxxxxxxxxxxxxx                       |
+| Chicago                    |    2841952 | xxxxxxxxxxxxxx                            |
+| Houston                    |    2027712 | xxxxxxxxxx                                |
+| Philadelphia               |    1453268 | xxxxxxx                                   |
+| Phoenix                    |    1428509 | xxxxxxx                                   |
+| San Diego                  |    1287050 | xxxxxx                                    |
+| San Antonio                |    1256810 | xxxxxx                                    |
+| Dallas                     |    1211704 | xxxxxx                                    |
+| San Jose                   |     897460 | xxxx                                      |
+
+Thanks for hint to Rick James : https://stackoverflow.com/questions/53876360/plot-graphs-in-mysql
+```
