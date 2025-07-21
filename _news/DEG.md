@@ -16,3 +16,4 @@ collection: news
 - Что нужно знать о Дзержинском - <https://www.youtube.com/shorts/covSgl9MSBA/>
 - Что нужно знать о человеческих суперорганизмах - <https://www.youtube.com/shorts/wFpdmsBBFd4/>
 - Черносотенство это черный цирк, устроенный фармазонами на деньги английских спецлужб - <https://www.youtube.com/shorts/VihPKWUKTfc> - <https://www.youtube.com/shorts/hpha20O2ezw> - <https://www.youtube.com/watch?v=bCrrWZKG9CE>
+- Английская вербовка революционеров - <https://www.youtube.com/watch?v=oXnGSf1Z4f0/>
