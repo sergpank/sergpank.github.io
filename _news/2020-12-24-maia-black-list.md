@@ -268,6 +268,9 @@ collection: news
     * Таджикистан — 10 %
 1. **30-июл-2025**
   * "Есть большая разница между ЕС и другими государствами <...> поэтому вмешательство такой страны, как Франция, в наши выборы не считается внешним вмешательством. Даже когда речь идет о прямом финансировании политических сил, мы не считаем это формой электоральной коррупции".
+  * Видео признано deepfake - <https://www.facebook.com/reel/1148735303945140/>
   * <https://t.me/tass_agency/328232/>
   * <https://www.vedomosti.ru/politics/news/2025/07/30/1127987-glava-tsik-moldavii/>
   * <https://govorit.md/glavnye-novosti/v-tsik-podtverdili-vmeshatelstvo-frantsii-v-moldavskie-vybory/>
+  * <https://stopfals.md/ro/article/fals-cec-a-permis-tarilor-ue-sa-se-amestece-in-alegerile-din-r-moldova-181271/>
+  * <https://nordnews.md/stiri-externe/rusia/diplomatia-rusa-promoveaza-falsuri-zaharova-atribuie-angelicai-caraman-o-declaratie-inventata-despre-franta-si-alegerile-din-moldova/>
