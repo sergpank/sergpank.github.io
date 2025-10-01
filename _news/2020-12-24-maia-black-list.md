@@ -274,3 +274,13 @@ collection: news
   * <https://govorit.md/glavnye-novosti/v-tsik-podtverdili-vmeshatelstvo-frantsii-v-moldavskie-vybory/>
   * <https://stopfals.md/ro/article/fals-cec-a-permis-tarilor-ue-sa-se-amestece-in-alegerile-din-r-moldova-181271/>
   * <https://nordnews.md/stiri-externe/rusia/diplomatia-rusa-promoveaza-falsuri-zaharova-atribuie-angelicai-caraman-o-declaratie-inventata-despre-franta-si-alegerile-din-moldova/>
+1. **28-сен-2025**
+  * Очередные парламентские выборы прошли успешно для PAS по отработанному сценарию
+    * Не пустить на выборы жителей Приднестровья
+    * Оградить от голосования граждан РМ живущих в России
+    * Закинуть и проштамповать бюллетени в Европе
+    * Как результат - в Молдове 1.3 млн проголосовавших, и 44% у PAS
+    * "Диаспора" добавляет еще 278 тыс голосов, и с её помощью PAS дотягивает до 50%
+    * "Оппозиция" знает об этой схеме, и легализует её своим молчанием
+    * <https://pv.cec.md/preliminare/>
+    * <https://ria.ru/20250928/moldaviya-2044983200.html/>
