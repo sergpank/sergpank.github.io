@@ -33,3 +33,6 @@ date: 2018-07-02
 | u | undo last action |
 | ctrl + r | redo last action |
 | U | revert last line to original state |
+| | |
+| :E or :Ex or :Explore | Exit back to directory list when opened directory in VIM as vim . |
+
