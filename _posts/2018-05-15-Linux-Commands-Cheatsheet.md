@@ -52,3 +52,5 @@ A &     # Run A in background.
 | | |
 | `sslscan <host>` | tests SSL/TLS enabled services to discover supported cipher suites |
 | | |
+| `mtr <host>` | My Trace Route - visual traceroute tool, very handy for quick connectivity analysis |
+| | |
