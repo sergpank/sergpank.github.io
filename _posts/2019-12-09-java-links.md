@@ -13,3 +13,4 @@ category: Java
 4. [Migration from javax to jakarta namespace](https://www.jetbrains.com/guide/java/tutorials/migrating-javax-jakarta/background)
 5. [Java Date Time API in the java.time package](https://dev.java/learn/date-time/)
 6. [How to get time zones right with java](https://medium.com/elca-it/how-to-get-time-zones-right-with-java-8dea13aabe5c)
+7. [Java isn't verbose - you are](https://dev.to/adamthedeveloper/java-isnt-verbose-you-are-1di3)
