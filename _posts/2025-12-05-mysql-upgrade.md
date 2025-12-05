@@ -11,13 +11,18 @@ Upgrade from MySQL 5.x to 8.x with Homebrew
 1. [Optinal] Backup Your Databases:
 ```bash
 mysqldump -u root -p --all-databases > all_databases_backup.sql
+# better make backup only for necessary databases, 
+# you don't need system databases, 
+# as mysql 5 and 8 have quite different internal structure
+mysqldump -u root -p --databases db1 db2 db3 > data_dump.sql
 ```
-Note: in my case db wasn't dropped
 
 2. Stop and Uninstall MySQL 5:
 ```bash
 brew services stop mysql@5.x # Replace 5.x with your specific MySQL 5 version
 brew uninstall mysql@5.x
+# and delete old mysql data
+rm -rf /opt/homebrew/var/mysql
 ```
 
 3. Install MySQL 8:
@@ -26,14 +31,16 @@ brew install mysql@8.4
 brew services list
 ```
 
-4. [Optional] Secure the MySQL 8 Installation (set root pass and other sec options):
+4. [Optional] Restore Your Databases:
 ```bash
-mysql_secure_installation
+# need --force to skip all incompatibility errors and skip backupf system tables
+mysql -u root --force < all_databases_backup.sql
+# if only user databases were backed up --> you don't need to use --force
 ```
 
-5. [Optional] Restore Your Databases:
+5. [Optional] Secure the MySQL 8 Installation (set root pass and other sec options):
 ```bash
-mysql -u root -p < all_databases_backup.sql
+mysql_secure_installation
 ```
 
 # DONE !
