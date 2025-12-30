@@ -9,6 +9,9 @@ categories: aws codedeploy amazon linux
 Default location for CodeDeploy logs on `Amazon Linux` is:  
 ``` bash
 /opt/codedeploy-agent/deployment-root/...
+# or maybe :
+/var/log/aws/codedeploy-agent/...
+# depends on installed version
 ```
 
 * I repitedly google it tooo many times
