@@ -10,7 +10,7 @@ categories: sqlite bash csv
 2. Open SQLite and import the CSV file:  
     > note : first row is used for table names, if you want to skip it
 ```bash
-sqlite3
+sqlite3 <db-name>
  .mode csv
  .import <path-your-csv-file> <db-table-name>
 ```
