@@ -22,7 +22,6 @@ sqlite3 <db-name>
 ```bash
 sqlite3 <db-name>
  .tables #show list of tables
-test
  .schema <table-name> #i.e. you have imported your csv file into test table
  .mode column #by default there is list mode - no column names
  select * from <table-name> limit 3; 
