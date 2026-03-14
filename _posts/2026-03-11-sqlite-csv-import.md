@@ -8,6 +8,7 @@ categories: sqlite bash csv
 1. Download SQLite precompiled binaries and add them to your $PATH  
   https://sqlite.org/download.html
 2. Open SQLite and import the CSV file:
+
 ```bash
 # Note: First row is used for column names, if you don't have header - create table before import
 sqlite3 <db-name>
@@ -20,6 +21,7 @@ sqlite3 <db-name>
 ```
 
 3. That's it, now you can execute any SQL query on the imported data.
+
 ```bash
 sqlite3 <db-name>
  .tables #show list of tables
