@@ -8,8 +8,8 @@ categories: sqlite bash csv
 1. Download SQLite precompiled binaries and add them to your $PATH  
   https://sqlite.org/download.html
 2. Open SQLite and import the CSV file:  
-Note: First row is used for column names, if you don't have header - create table before import
 ```bash
+# Note: First row is used for column names, if you don't have header - create table before import
 sqlite3 <db-name>
  .mode csv # or use flag --csv
  .import <path-your-csv-file> <db-table-name> --skip <n>
