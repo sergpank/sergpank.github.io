@@ -26,6 +26,15 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: "/page/:num/"
+  title: ":title - page :num"
+  sort_field: "date"
+  sort_reverse: true
 exclude:
   - Gemfile
   - Gemfile.lock

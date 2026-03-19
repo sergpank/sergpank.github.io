@@ -1,15 +1,17 @@
 ---
 layout: default
+pagination:
+  enabled: true
 ---
 
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
-  
+
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -22,5 +24,25 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  
+
+  {% if paginator.total_pages > 1 %}
+  <nav class="pagination">
+    {% if paginator.previous_page %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
+    {% else %}
+      <span class="pagination-item newer disabled">&laquo; Newer</span>
+    {% endif %}
+
+    <span class="pagination-info">
+      Page {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+
+    {% if paginator.next_page %}
+      <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+    {% else %}
+      <span class="pagination-item older disabled">Older &raquo;</span>
+    {% endif %}
+  </nav>
+  {% endif %}
+
 </div>
