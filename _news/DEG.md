@@ -19,3 +19,4 @@ collection: news
 - Английская вербовка революционеров - <https://www.youtube.com/watch?v=oXnGSf1Z4f0/>
 - СССР - колония управляемая дураками - <https://www.youtube.com/shorts/5-oMrIME-5g/>
 - Как Англия правит миром - <https://www.youtube.com/shorts/PCZpMZpvmlo/>
+- Тайна рожденя Керенского - <https://www.youtube.com/shorts/I82QTGomcNo/>
