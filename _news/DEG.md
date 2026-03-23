@@ -20,3 +20,4 @@ collection: news
 - СССР - колония управляемая дураками - <https://www.youtube.com/shorts/5-oMrIME-5g/>
 - Как Англия правит миром - <https://www.youtube.com/shorts/PCZpMZpvmlo/>
 - Тайна рожденя Керенского - <https://www.youtube.com/shorts/I82QTGomcNo/>
+- Как масоны захватили власть - <https://www.youtube.com/shorts/Qv8mQ8h75kg/>
