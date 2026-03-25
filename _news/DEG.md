@@ -21,3 +21,4 @@ collection: news
 - Как Англия правит миром - <https://www.youtube.com/shorts/PCZpMZpvmlo/>
 - Тайна рожденя Керенского - <https://www.youtube.com/shorts/I82QTGomcNo/>
 - Как масоны захватили власть - <https://www.youtube.com/shorts/Qv8mQ8h75kg/>
+- Протестанты vs Католики - <https://www.youtube.com/shorts/IqOtbryTGWA/>
