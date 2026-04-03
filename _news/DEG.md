@@ -10,6 +10,7 @@ collection: news
 - Что такое советская власть - <https://www.youtube.com/shorts/7CfcuIJ5IUU/>  
 - Что не так с коммунистической партией - <https://www.youtube.com/shorts/k40Xny7nw-w/>  
 - Что не так с коммунизмом - <https://www.youtube.com/shorts/FGlZ73kxSVk/>  
+- Что не так с биографиями руководства СССР - <https://www.youtube.com/shorts/6Bv4sWXzkaM/>
 - Кто пришел к власти в 1917 году в России - <https://www.youtube.com/shorts/wVaflLTzieg/>  
 - Кто стоит за ворами в законе - <https://www.youtube.com/shorts/AS73-ZAsEAY/>  
 - Пропаганда всегда расчитана на детей - <https://www.youtube.com/shorts/mrdx5K5diVg/>  
