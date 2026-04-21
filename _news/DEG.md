@@ -23,3 +23,4 @@ collection: news
 - Тайна рожденя Керенского - <https://www.youtube.com/shorts/I82QTGomcNo/>
 - Как масоны захватили власть - <https://www.youtube.com/shorts/Qv8mQ8h75kg/>
 - Протестанты vs Католики - <https://www.youtube.com/shorts/IqOtbryTGWA/>
+- Партийная номенклатура полуала зарплату конспиративно - <https://www.youtube.com/shorts/TlIe6u7QR2c/>
