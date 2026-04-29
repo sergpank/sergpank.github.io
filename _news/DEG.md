@@ -24,3 +24,5 @@ collection: news
 - Как масоны захватили власть - <https://www.youtube.com/shorts/Qv8mQ8h75kg/>
 - Протестанты vs Католики - <https://www.youtube.com/shorts/IqOtbryTGWA/>
 - Партийная номенклатура полуала зарплату конспиративно - <https://www.youtube.com/shorts/TlIe6u7QR2c/>
+- Рассогласованность еврейской пропаганды - <https://www.youtube.com/watch?v=Y0wC6ptN_KI/>
+- Проблема украинцев в том что они изображают из себя галицийцев - <https://www.youtube.com/watch?v=JSE-AqRlwx4/>
