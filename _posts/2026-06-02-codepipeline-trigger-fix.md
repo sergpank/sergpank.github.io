@@ -11,7 +11,8 @@ categories: AWS
  - They want to save some $$$ for company!
  - But my deployments don't run, what shall I do!
  - Don't panic! Follow these steps:
-```
+
+```bash
 1. Enable [Amazon EventBridge] in S3 bucket properties
    - Send notifications to Amazon EventBridge for all events in this bucket -> ON
 2. Change Event pattern for trigger:
