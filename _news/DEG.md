@@ -26,3 +26,4 @@ collection: news
 - Партийная номенклатура полуала зарплату конспиративно - <https://www.youtube.com/shorts/TlIe6u7QR2c/>
 - Рассогласованность еврейской пропаганды - <https://www.youtube.com/watch?v=Y0wC6ptN_KI/>
 - Проблема украинцев в том что они изображают из себя галицийцев - <https://www.youtube.com/watch?v=JSE-AqRlwx4/>
+- Что не так с Горбачевым - <https://youtube.com/shorts/rdFF4T0sYXM/>
