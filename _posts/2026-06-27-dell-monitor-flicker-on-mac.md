@@ -29,8 +29,8 @@ Hence it is repeatedly turning On and Off, the ICA which has a threshold setting
 
 ### Permanent fix (the proper one)
 - Disable macOS *`Temporal Dithering`* with one of these tools
-  - *Stillcolor* (my choise, eyes are happy now) : <https://github.com/aiaf/Stillcolor/>
-  - *BetterDisplay* (adjust the color bit-depth sent from the GPU) : <https://github.com/waydabber/BetterDisplay/>
+  - **Stillcolor** (my choise, eyes are happy now) : <https://github.com/aiaf/Stillcolor/>
+  - **BetterDisplay** (adjust the color bit-depth sent from the GPU) : <https://github.com/waydabber/BetterDisplay/>
 
 ### Affected Products
 - Dell 24 Video Conferencing Monitor C2422HE
