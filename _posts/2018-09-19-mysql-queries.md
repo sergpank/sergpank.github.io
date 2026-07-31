@@ -37,6 +37,15 @@ use schema-name;
 select database();
 ```
 
+## Write query result into a file
+```bash
+mysql -h HOST -u USER -pPASSWORD --quick -NB DATABASE -e "SELECT ..." > result.txt
+
+# --quick - upload data once it is received
+# -N - disable header output
+# -B - disable output formatting
+```
+
 ## Show size for all DB tables:
 ```sql
 SELECT 
