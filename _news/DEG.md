@@ -27,3 +27,5 @@ collection: news
 - Рассогласованность еврейской пропаганды - <https://www.youtube.com/watch?v=Y0wC6ptN_KI/>
 - Проблема украинцев в том что они изображают из себя галицийцев - <https://www.youtube.com/watch?v=JSE-AqRlwx4/>
 - Что не так с Горбачевым - <https://youtube.com/shorts/rdFF4T0sYXM/>
+- Настоящая дата убийства Николая II - <https://www.youtube.com/shorts/0lTASAeA-YI/>
+- Где фото революции 1917 ? - <https://www.youtube.com/shorts/e12Uz1DQwj0/>
