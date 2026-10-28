@@ -29,3 +29,4 @@ collection: news
 - Что не так с Горбачевым - <https://youtube.com/shorts/rdFF4T0sYXM/>
 - Настоящая дата убийства Николая II - <https://www.youtube.com/shorts/0lTASAeA-YI/>
 - Где фото революции 1917 ? - <https://www.youtube.com/shorts/e12Uz1DQwj0/>
+- Отличе революции от госпереворота и Троцкий - <https://www.youtube.com/shorts/FgUBoiU5PDM/>
