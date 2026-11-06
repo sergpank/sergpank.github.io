@@ -69,6 +69,18 @@ date: 2018-01-03
 | |
 | `git rm --cached <file_name>`                      | Stop tracking file and remove it from git index
 
+## Change git remote
+
+```bash
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin git@<your-new-repo-url>.git
+git remote -v
+git branch --set-upstream-to=origin/master
+git pull
+```
+
 ## Disable git log pager
 
 For current repo only:
